@@ -11,6 +11,11 @@
 *.cb
 *.cb2
 
+# Sphinx documentation
+_build
+_static
+_templates
+
 ## Intermediate documents:
 *.dvi
 *-converted-to.*

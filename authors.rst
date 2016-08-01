@@ -1,0 +1,2 @@
+- John Leeman, (`@jrleeman <https://github.com/jrleeman/>`_)
+- Chris Marone,  (`@cmarone <https://github.com/cmarone/>`_)
