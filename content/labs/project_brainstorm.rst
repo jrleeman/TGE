@@ -5,7 +5,7 @@ Project Brainstorm
 
 .. figure:: ./images/icon_project.png
    :align: right
-   :scale: 110 %
+   :scale: 100 %
 
 The course project should help you solve a research problem you are facing while
 helping you actively learn many of the skills introduced in this course. The
@@ -16,11 +16,6 @@ will have several characteristics:
 
 * Uses multiple disciplines we discuss (i.e. mechanical, electrical, software, etc.)
 * Solves a problem with no commercial solution or no economical commercial solution.
-* Will not cost thousands of dollars to build  Does not put you or others in the path of potential harm or danger. 
+* Will not cost thousands of dollars to build  Does not put you or others in the path of potential harm or danger.
 
 Brainstorm 5 potential project ideas.
-
-Contents:
-
-.. toctree::
-   :maxdepth: 1
