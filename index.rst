@@ -1,4 +1,4 @@
-Techniques of Geophysical Experimentation
+Techniques of Geoscience Experimentation
 =========================================
 
  .. image:: intro.png
@@ -6,7 +6,7 @@ Techniques of Geophysical Experimentation
    :alt: intro
    :align: right
 
-Techniques of Geophysical Experimentation (TGE) is a resource designed to help
+Techniques of Geoscience Experimentation (TGE) is a resource designed to help
 scientists, hobbyists, and experimentalists learn how to develop their own
 experimental equipment. Topics include mechanical design, data acquisition,
 electronics, microcontrollers, CAD, pressure vessel design, and more.

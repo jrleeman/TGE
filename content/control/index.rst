@@ -13,7 +13,7 @@ drive the system towards the desired state. Control theory can become complex
 very quickly for systems with non-linear response functions or systems with
 strict response time requirements. In this section we will cover the
 fundamentals of control by examining the most common types of control systems.
-(Icon image: `Wikipedia<https://en.wikipedia.org/wiki/File:PID-feedback-loop-v1.png>`_)
+(Icon image: `Wikipedia <https://en.wikipedia.org/wiki/File:PID-feedback-loop-v1.png>`_)
 
 Contents:
 
