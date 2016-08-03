@@ -18,3 +18,9 @@ Contents:
 	:maxdepth: 1
 
 	screwdrivers
+  pliers
+  hammers
+  files
+  saws
+  squares
+  wrenches
