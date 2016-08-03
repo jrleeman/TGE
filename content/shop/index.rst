@@ -18,3 +18,5 @@ Contents:
 
 .. toctree::
    :maxdepth: 1
+
+   hand_tools/index
