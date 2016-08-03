@@ -17,3 +17,4 @@ Contents:
    :maxdepth: 1
 
    project_brainstorm
+   threading_activity
