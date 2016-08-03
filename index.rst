@@ -1,5 +1,5 @@
 Techniques of Geoscientific Experimentation
-=========================================
+===========================================
 
  .. image:: intro.png
    :width: 300 px

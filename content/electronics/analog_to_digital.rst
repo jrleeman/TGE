@@ -3,7 +3,7 @@
 Analog to Digital Conversion
 ============================
 
-.. figure:: ./images/icon_adc.jpg
+.. figure:: ./images/icon_adc.png
    :align: right
    :scale: 80 %
 
