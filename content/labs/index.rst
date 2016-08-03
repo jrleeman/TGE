@@ -18,3 +18,4 @@ Contents:
 
    project_brainstorm
    threading_activity
+   3D_print_activity
