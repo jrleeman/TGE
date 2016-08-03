@@ -69,7 +69,7 @@ release = '0.1'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
-exclude_patterns = ['_build']
+exclude_patterns = ['_build', 'authors.rst']
 
 # The reST default role (used for this markup: `text`) to use for all
 # documents.
@@ -95,6 +95,17 @@ pygments_style = 'sphinx'
 # If true, keep warnings as "system message" paragraphs in the built documents.
 #keep_warnings = False
 
+# Ignore links that don't play well with linkcheck. Generally PDFs and database
+# lookup operations.
+linkcheck_ignore = ['http://www.mcmaster.com/#8975k74/=13kgygi',
+                    'http://www.mcmaster.com/#8974k22/=13kgyqx',
+                    'http://www.mcmaster.com/#26955a43/=13kgz08',
+                    'http://www.mcmaster.com/#2576a451/=13kgz5j',
+                    'http://www.mcmaster.com/#29045a727/=13kgzc1',
+                    'http://www.mcmaster.com/#2915a14/=13kgzhk',
+                    'http://www.mcmaster.com/#2546a23/=13kgzmt',
+                    'http://www.mcmaster.com/#25565a21/=13kgzsc',
+                    'http://www.mcmaster.com/#4289a35/=13kgzws']
 
 # -- Options for HTML output ----------------------------------------------
 
