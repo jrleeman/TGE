@@ -17,7 +17,7 @@ Materials
 * 6061 Aluminum plate (2"x2"x0.5" cut from `McMaster 8975K74 <http://www.mcmaster.com/#catalog/122/3692/=132zw9w>`_)
 * 6061 Aluminum rod (0.25"x2" cut from `McMaster 8974K22 <http://www.mcmaster.com/#catalog/122/3699/=132zyv9>`_)
 * 1/4"-20 Through-Hole Tap (`McMaster 26955A43 <http://www.mcmaster.com/#catalog/122/2547/=13300k9>`_)
-* 1/4"-20 Right Handed Die (`McMaster 2576A451 <http://www.mcmaster.com/#catalog/122/2556/=13300un>`_)
+* 1/4"-20 Right Handed Die (`McMaster 2576A451 <http://www.mcmaster.com/#catalog/122/2556/=13kgwqa>`_)
 * #7 Twist Drill (`McMaster 29045A727 <http://www.mcmaster.com/#catalog/122/2441/=13300yz>`_)
 * #4 Centerdrill (`McMaster 2915A14 <http://www.mcmaster.com/#catalog/122/2477/=133014f>`_)
 * Tap driver (`McMaster 2546A23 <http://www.mcmaster.com/#catalog/122/2553/=133018y>`_)
