@@ -3,9 +3,11 @@
 Arduino Stoplight
 =================
 
-.. figure:: ./images/stoplight.png
+.. figure:: ./images/icon_stoplight.jpg
    :align: right
-   :scale: 25 %
+   :scale: 50 %
+
+   Borrowed from `Wikipedia <https://commons.wikimedia.org/wiki/File:Sunnyvale_left_turn_light_2.jpg>`_.
 
 In this activity you will make a simple single stoplight controller with an
 Arduino UNO and some LEDs. You will become familiar with using the Arduino
