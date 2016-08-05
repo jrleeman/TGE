@@ -11,6 +11,13 @@ of the most common types of hammers you can expect to encounter.
 Types of Hammers
 ----------------
 
+.. raw:: html
+
+    <div style="margin-top:10px;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/aMl9gIhRQno" frameborder="0" allowfullscreen>
+    </iframe>
+    </div>
+
 .. figure:: ./images/claw_hammer.jpg
  :align: right
  :scale: 30 %
@@ -77,6 +84,13 @@ Using a hammer just takes practice and careful selection. Choosing the correct
 style and weight of the hammer can make a large difference to how successful
 your operation is. Raise the hammer and strike the object with the head of the
 hammer square to the surface being hit.
+
+.. raw:: html
+
+    <div style="margin-top:10px;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/g6dvj4MKjDc" frameborder="0" allowfullscreen>
+    </iframe>
+    </div>
 
 Safety Precautions
 ------------------
