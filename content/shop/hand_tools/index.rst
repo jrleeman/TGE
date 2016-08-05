@@ -15,6 +15,12 @@ if cared for properly can provide a lifetime of service.
 Contents:
 
 .. toctree::
-	:maxdepth: 1
+   :maxdepth: 1
 
-	screwdrivers
+   screwdrivers
+   files
+   hammers
+   pliers
+   saws
+   squares
+   wrenches
