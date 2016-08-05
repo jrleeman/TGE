@@ -49,7 +49,7 @@ Types of Saws
   adjustments built into the handle. These are very useful for complex shapes,
   but care must be taken to not snap the blades.
 
- .. figure:: ./images/mitre_saw.jpg
+ .. figure:: ./images/miter_saw.jpg
   :align: right
   :scale: 30 %
 
