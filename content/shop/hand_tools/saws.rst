@@ -27,7 +27,7 @@ Types of Saws
 
   .. figure:: ./images/hacksaw.jpg
    :align: right
-   :scale: 30 %
+   :scale: 40 %
 
    `Hacksaw (Wikipedia) <https://commons.wikimedia.org/wiki/File:Hacksaw.jpg>`_
 
@@ -40,7 +40,7 @@ Types of Saws
 
  .. figure:: ./images/coping_saw.jpg
   :align: right
-  :scale: 30 %
+  :scale: 20 %
 
   `Coping Saw (Wikipedia) <https://commons.wikimedia.org/wiki/File:Coping_saw_2.jpg>`_
 
@@ -51,7 +51,7 @@ Types of Saws
 
  .. figure:: ./images/miter_saw.jpg
   :align: right
-  :scale: 30 %
+  :scale: 45 %
 
   `Mitre Saw (Wikipedia) <https://en.wikipedia.org/wiki/Miter_saw#/media/File:Verstekzaag.jpg>`_
 
