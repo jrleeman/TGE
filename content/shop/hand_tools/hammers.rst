@@ -70,7 +70,7 @@ Types of Hammers
  :align: right
  :scale: 70 %
 
- `Claw Hammer (Wikipedia) <https://commons.wikimedia.org/wiki/File:Claw-hammer.jpg>`_
+ `Mallet (Wikipedia) <https://commons.wikimedia.org/wiki/File:Mallet.jpg>`_
 
 * **Mallet** - The mallet is a large faced hammer that is smaller than a sledge
   and is generally made from rubber, rawhide, or wood. Mallets deliver smaller

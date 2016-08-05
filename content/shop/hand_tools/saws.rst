@@ -53,7 +53,7 @@ Types of Saws
   :align: right
   :scale: 45 %
 
-  `Mitre Saw (Wikipedia) <https://en.wikipedia.org/wiki/Miter_saw#/media/File:Verstekzaag.jpg>`_
+  `Mitre Saw (Wikipedia) <https://commons.wikimedia.org/wiki/File:Verstekzaag.jpg>`_
 
 * **Mitre Saw** - This saw is designed to work with a mitre box to make
   accurate 90 and 45 degree cuts. These cuts are useful when building frames,

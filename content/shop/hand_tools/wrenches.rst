@@ -16,7 +16,7 @@ Types of Wrenches
  :align: right
  :width: 200 px
 
- `Open End Wrench (Wikipedia) <https://commons.wikimedia.org/wiki/File:Clé_plate.jpg>`_
+ `Open End Wrench (Wikipedia) <https://commons.wikimedia.org/wiki/File%3ACl%C3%A9_plate.jpg>`_
 
 * **Open End Wrench** - Open end wrenches fit around the faces of a nut or bolt
   head and are specified in the size of the opening in the jaw. You may also
