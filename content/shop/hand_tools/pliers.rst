@@ -19,6 +19,13 @@ type of plier.
 Types of Pliers
 ---------------------
 
+.. raw:: html
+
+    <div style="margin-top:10px;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/VF3xOXZn8WU" frameborder="0" allowfullscreen>
+    </iframe>
+    </div>
+
 .. figure:: ./images/slip_joint_pliers.png
  :align: right
  :scale: 40 %
