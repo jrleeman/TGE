@@ -3,9 +3,12 @@
 Machine Tools
 =============
 
-.. figure:: ./images/icon_machine_tools.png
+.. figure:: ./images/icon_machine_tools.jpg
    :align: right
-   :scale: 100 %
+   :scale: 50 %
+
+`CNC Workstation (Wikipedia) <https://commons.wikimedia.org/wiki/File:NREC_Machine_Shop_Workstation.jpg>`_
+
 
 Machine tools are a special category of power tools used to make precision parts
 and equipment. The main tools of the mill, lathe, and drill-press will be

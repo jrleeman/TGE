@@ -20,3 +20,4 @@ Contents:
    :maxdepth: 1
 
    hand_tools/index
+   machine_tools/index
