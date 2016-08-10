@@ -33,6 +33,7 @@ Contents:
    content/transducers/index
    content/control/index
    content/labs/index
+   content/lectures/index
 
 Contributors:
 ^^^^^^^^^^^^^

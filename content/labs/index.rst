@@ -16,7 +16,12 @@ Contents:
 .. toctree::
    :maxdepth: 1
 
+   blinky_1
    project_brainstorm
+   part_manufacture
    threading_activity
+   blinky_2
+   project_proposal
+   flex_data_acquisition
    3D_print_activity
    arduino_stoplight
