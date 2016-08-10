@@ -5,7 +5,7 @@ Threading Activity
 
 .. figure:: ./images/threading_3d_view.png
    :align: right
-   :scale: 25 %
+   :scale: 35 %
 
 In this activity you will practice drilling and tapping, and well as threading
 with a die. Cutting threads is a technique used over and over again to provide a
@@ -15,7 +15,7 @@ to follow proper safety and personal protective equipment procedures!
 Materials
 ---------
 * 6061 Aluminum plate (2"x2"x0.5" cut from `McMaster 8975K74 <http://www.mcmaster.com/#8975k74/=13kgygi>`_)
-* 6061 Aluminum rod (0.25"x2" cut from `McMaster 8974K22 <http://www.mcmaster.com/#8974k22/=13kgyqx>`_)
+* 6061 Aluminum rod (0.25"x2.5" cut from `McMaster 8974K22 <http://www.mcmaster.com/#8974k22/=13kgyqx>`_)
 * 1/4"-20 Through-Hole Tap (`McMaster 26955A43 <http://www.mcmaster.com/#26955a43/=13kgz08>`_)
 * 1/4"-20 Right Handed Die (`McMaster 2576A451 <http://www.mcmaster.com/#2576a451/=13kgz5j>`_)
 * #7 Twist Drill (`McMaster 29045A727 <http://www.mcmaster.com/#29045a727/=13kgzc1>`_)
@@ -27,7 +27,7 @@ Materials
 
 Procedure
 ---------
-#. Layout and mark the center of the plate for drilling.
+#. Layout and mark the center of the plate for drilling (with a rule or layout dye and calipers).
 #. Using the center drill, make a pilot mark for the final drill. Do not drill through the material!
 #. Drill the hole to its final diameter (#7). Drilling a smaller pilot hole first is recommended.
 #. Deburr both sides of the hole.
@@ -35,3 +35,15 @@ Procedure
 #. Mark the thread depth on the rod so that it will fully screw into the newly tapped hole, but not stick out of the back side of the plate.
 #. Using the die and lubricant, thread the rod.
 #. Assemble the parts, write your name, and turn it in!
+
+Helpful Video
+-------------
+The video below shows roughly the process you will follow. If you have layout
+dye available, it is especially helpful.
+
+.. raw:: html
+
+    <div style="margin-top:10px;margin-bottom:10px">
+    <iframe width="420" height="315" src="https://www.youtube.com/embed/KmtbzL8YlxM" frameborder="0" allowfullscreen>
+    </iframe>
+    </div>
