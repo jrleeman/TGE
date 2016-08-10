@@ -28,7 +28,7 @@ Activity
 --------
 Using the breadboard and components in the inventor’s kit, replicate the blink
 exercise using an external LED on a different digital output pin by following
-the :ref:`blinky_2` activity.
+the :ref:`blinky_2.0` activity.
 
 Assignment
 ----------
