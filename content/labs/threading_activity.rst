@@ -27,7 +27,7 @@ Materials
 
 Procedure
 ---------
-#. Layout and mark the center of the plate for drilling.
+#. Layout and mark the center of the plate for drilling (with a rule or layout dye and calipers).
 #. Using the center drill, make a pilot mark for the final drill. Do not drill through the material!
 #. Drill the hole to its final diameter (#7). Drilling a smaller pilot hole first is recommended.
 #. Deburr both sides of the hole.
@@ -35,3 +35,15 @@ Procedure
 #. Mark the thread depth on the rod so that it will fully screw into the newly tapped hole, but not stick out of the back side of the plate.
 #. Using the die and lubricant, thread the rod.
 #. Assemble the parts, write your name, and turn it in!
+
+Helpful Video
+-------------
+The video below shows roughly the process you will follow. If you have layout
+dye available, it is especially helpful.
+
+.. raw:: html
+
+    <div style="margin-top:10px;margin-bottom:10px">
+    <iframe width="420" height="315" src="https://www.youtube.com/embed/KmtbzL8YlxM" frameborder="0" allowfullscreen>
+    </iframe>
+    </div>
