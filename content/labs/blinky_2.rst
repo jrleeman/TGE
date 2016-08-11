@@ -3,6 +3,10 @@
 Blinky 2.0
 ==========
 
+.. figure:: ./images/icon_blinky2.png
+   :align: center
+   :scale: 70 %
+
 This activity will build on the :ref:`blinky_1.0` activity we did using your
 new knowledge of electronics prototyping techniques. We will still blink LEDs,
 but we will use external LEDs on a breadboard.
