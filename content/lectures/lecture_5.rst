@@ -21,14 +21,14 @@ Class Plan
 Activity
 --------
 After returning from the machine shop tour, go to the lab. Students will receive
-the materials to complete the threading activity and have time to work on the
-assignment.
+the materials to complete the :ref:`threading_activity` and have time to work on
+the assignment.
 
 
 Assignment
 ----------
-Complete the threading activity and your parts ready to turn in during lecture.
-Contact us if you need assistance in the laboratory. **Due 9/8/16**
+Complete the :ref:`threading_activity` and your parts ready to turn in during
+lecture. Contact us if you need assistance in the laboratory. **Due 9/8/16**
 
 Media
 -----
