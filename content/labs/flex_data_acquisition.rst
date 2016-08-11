@@ -31,7 +31,7 @@ Sensor
 The flex sensors in the activity are made by SpectraSymbol
 (checkout the `datasheet <https://cdn.sparkfun.com/datasheets/Sensors/ForceFlex/FLEX%20SENSOR%20DATA%20SHEET%202014.pdf>_ ).
 They are coated on one side with a polymer that has little conductive bits in it. When
-the sensor is flat (unbent), the characteristic resistance is about 30k :math:`\Omega`.
+the sensor is flat (unbent), the characteristic resistance is about 30k :math:`\Omega` .
 
 .. figure:: ./images/flex_sensor_straight.png
    :align: center
