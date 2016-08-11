@@ -3,6 +3,10 @@
 Flex Sensor Data Acquisition
 ============================
 
+.. figure:: ./images/icon_flex_sensor.png
+   :align: right
+   :scale: 70%
+
 In this activity you will learn how to take a transducer, create a basic signal
 conditioning circuit, then record data from that system. We will be using the
 flex sensor from the Inventor's Kit and measure how far you have bent the sensor
@@ -55,6 +59,10 @@ damage it. It should only be bent as shown in the photo below.
 
    `Only bend the sensor in this direction (Image: Sparkfun) <https://learn.sparkfun.com/tutorials/flex-sensor-hookup-guide#flex-sensor-overview>`_
 
+The most recent shipment of sensors seem to be slightly different than the
+specifications used in the SparkFun tutorial materials. The unbent resistance
+is about 22k :math:`\Omega` and at ninety degrees bend it is about
+48k :math:`\Omega`.
 
 Signal Conditioning
 -------------------
@@ -77,7 +85,7 @@ other end, the output at the junction of the two resistors will be:
 
 
 .. math::
-   V_\text{in} = V_\text{in} \frac{R_2}{R_1+R_2}
+   V_\text{out} = V_\text{in} \frac{R_2}{R_1+R_2}
 
 
 We will implement the resistor divider by making :math:`R_1` in the circuit
@@ -113,56 +121,57 @@ run in this exercise.
 
 .. code-block:: c
 
-    /*********************************************************************************
-    Modified from the SparkFun Flex Sensor Example Code
-    https://learn.sparkfun.com/tutorials/flex-sensor-hookup-guide#flex-sensor-overview
-    **********************************************************************************/
+  /*********************************************************************************
+  Modified from the SparkFun Flex Sensor Example Code
+  https://learn.sparkfun.com/tutorials/flex-sensor-hookup-guide#flex-sensor-overview
+  **********************************************************************************/
 
-    const int FLEX_PIN = A0; // Pin connected to voltage divider output
+  const int FLEX_PIN = A0; // Pin connected to voltage divider output
 
-    // Measure the voltage at 5V and the actual resistance of your
-    // 47k resistor, and enter them below. This makes the angle
-    // calcaultion much more accurate.
-    const float VCC = 4.98; // Measured voltage of Ardunio 5V line
-    const float R_DIV = 47500.0; // Measured resistance of 47k resistor
+  // Measure the voltage at 5V and the actual resistance of your
+  // 47k resistor, and enter them below. This makes the angle
+  // calculation much more accurate.
+  const float VCC = 4.8; // Measured voltage of Arduino 5V line
+  const float R_DIV = 45900.0; // Measured resistance of 47k resistor
 
-    // Upload the code and try to determine an average value of
-    // resistance when the sensor is not bent, and when it is
-    // bent at 90 degrees. Enter those and reload the code for
-    // a more accurate angle estimate.
-    const float STRAIGHT_RESISTANCE = 37300.0; // resistance when straight
-    const float BEND_RESISTANCE = 90000.0; // resistance at 90 deg
+  // Upload the code and try to determine an average value of
+  // resistance when the sensor is not bent, and when it is
+  // bent at 90 degrees. Enter those and reload the code for
+  // a more accurate angle estimate.
+  const float STRAIGHT_RESISTANCE = 22250.51; // resistance when straight
+  const float BEND_RESISTANCE = 48300.0; // resistance at 90 deg
 
-    void setup()
-    {
-      Serial.begin(9600); // Startup the serial communications at 9600 baud
-    }
+  void setup()
+  {
+    Serial.begin(9600); // Startup the serial communications at 9600 baud
+  }
 
-    void loop()
-    {
-      // Read the ADC
-      int flexADC = analogRead(FLEX_PIN);
+  void loop()
+  {
+    // Read the ADC
+    int flexADC = analogRead(FLEX_PIN);
 
-      // Calcaulate the voltage that the ADC read
-      float flexV = flexADC * VCC / 1023.0;
+    // Calculate the voltage that the ADC read
+    float flexV = flexADC * VCC / 1023.0;
 
-      // Calculate the resistance of the flex sensor
-      float flexR = R_DIV * (VCC / flexV - 1.0);
+    // Calculate the resistance of the flex sensor
+    float flexR = R_DIV * (VCC / flexV - 1.0);
 
 
-      // Use the calculated resistance to estimate the sensor's
-      // bend angle my mapping the measured resistance onto the
-      // known resistances at zero and ninety degrees of bend.
-      float angle = map(flexR, STRAIGHT_RESISTANCE, BEND_RESISTANCE,
-                       0, 90.0);
+    // Use the calculated resistance to estimate the sensor's
+    // bend angle my mapping the measured resistance onto the
+    // known resistances at zero and ninety degrees of bend.
+    float angle = map(flexR, STRAIGHT_RESISTANCE, BEND_RESISTANCE,
+                     0, 90.0);
 
-      // Send the results back to the computer formatted as a
-      // comma delimited line.
-      Serial.print(angle + ",");
-      Serial.println(flexR);
+    // Send the results back to the computer formatted as a
+    // comma delimited line.
+    Serial.print(angle);
+    Serial.print(",");
+    Serial.println(flexR);
 
-      delay(250); // Read the sensor at 4Hz.
-    }
+    delay(250); // Read the sensor at 4Hz.
+  }
 
 The :code:`setup()` function starts serial communication with the computer.
 In the main :code:`loop()` function we read the ADC value with the
@@ -182,7 +191,7 @@ which can be written a bit more nicely as:
 We then use the :code:`map()` function which is a handy way to avoid doing the
 annoying math of scaling and calibration in this case. We assume the sensor
 is linear and map takes our no bend and bent resistance values and maps them
-to zero and ninety degrees. It then takes the measured resistance and esitmates
+to zero and ninety degrees. It then takes the measured resistance and estimates
 the bend angle based on those two end point calibration values. Checkout the
 `documentation for the map function <https://www.arduino.cc/en/Reference/Map>`_
 for the details.
@@ -203,6 +212,12 @@ plot.
 If you go into the tools menu of the IDE, there is a Serial Plotter option.
 Clicking that will show a running graph of the serial data coming in, but it is
 rather limited. There is no time scale and there can only be one plot running.
+To use the serial plotter we need to change the serial output section of the
+code to output only a single angle value per line, no comma or resistance.
+After you get your calibration resistances (see below) you can modify the
+serial section to just be :code:`Serial.println(angle);` (just commenting out
+the other lines is a good idea).
+
 For a good summary of the current state of the serial plotter, checkout this
 `blog post <https://rheingoldheavy.com/new-arduino-serial-plotter/>`_ by
 Rheingold Heavy.
@@ -226,8 +241,8 @@ Procedure
 * Plug the Arduino into the computer and upload the program listed above.
 
 * Experiment with the plotter and sensor. Try changing the resistor in the
-  voltage divider out for one of higher or lower value. Does this increase or
-  decrease the range of output of the sensor? How does the resolution change?
+  voltage divider out for one of higher or lower value. How does the output
+  voltage change? Does the range of output voltage change?
 
 Deliverables
 ------------
