@@ -105,7 +105,8 @@ linkcheck_ignore = ['http://www.mcmaster.com/#8975k74/=13kgygi',
                     'http://www.mcmaster.com/#2915a14/=13kgzhk',
                     'http://www.mcmaster.com/#2546a23/=13kgzmt',
                     'http://www.mcmaster.com/#25565a21/=13kgzsc',
-                    'http://www.mcmaster.com/#4289a35/=13kgzws']
+                    'http://www.mcmaster.com/#4289a35/=13kgzws',
+                    'http://tge.geoscience.tech/']
 
 # -- Options for HTML output ----------------------------------------------
 
