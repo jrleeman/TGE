@@ -97,7 +97,7 @@ Course Website
 We will be using Canvas for posting grades and copyright class material (book
 chapter scans, etc.). The course material, topic summaries, labs, and other
 information is on the
-`course website <http://tge.geoscience.tech/en/latest/index.html>`_ .
+`course website <http://tge.geoscience.tech/>`_ .
 Please check it regularly for announcements and to explore the embedded videos
 and content. Video recordings of the lecture will also be posted.
 
