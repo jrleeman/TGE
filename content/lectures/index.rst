@@ -13,6 +13,8 @@ Contents:
 .. toctree::
    :maxdepth: 1
 
+   syllabus
+   course_ad
    lecture_1_2
    lecture_3
    lecture_4
