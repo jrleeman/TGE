@@ -3,6 +3,12 @@
 Mill
 ====
 
+.. figure:: ./images/milling_process.jpg
+   :align: right
+   :scale: 20 %
+
+   Milling machine in operation (Ellis Dunklebarger)
+
 The milling machine brings a rotating cutter into contact with a stationary and
 clamped workpiece that is help on a precision table. Milling can produce very
 flat and high precision parts with contours, holes, grooves, and other complex
@@ -14,6 +20,12 @@ referring to the axis of rotation of the tool. The vertical mill is most
 commonly found in shops, but well equipped shops have both types. Horizontal
 mills can be setup with ganged cutters to reduce the number of operations that
 must be performed on a piece during production.
+
+.. figure:: ./images/cnc_mill.jpg
+   :align: center
+   :scale: 25 %
+
+   A CNC milling machine with tool changer (Ellis Dunklebarger)
 
 Use
 ---

@@ -3,12 +3,24 @@
 Water Jet
 =========
 
+.. figure:: ./images/waterjet_closeup.jpg
+   :align: right
+   :scale: 15 %
+
+   Waterjet cutting a thick steel plate (Ellis Dunklebarger)
+
 The water jet cutter, if you have access to one, is an incredibly useful and
 precise tool. It propels Garnet particles with a very high pressure jet of water
 to abrade through the workpiece. Multi-axis machines can even cut very complex
 3D shapes. Water jet cutters make very clean cuts that are easily good to
 a 0.001" (0.03 mm) tolerance. These machines are exceedingly expensive to own
 and operate, so it is common to outsource water jet projects.
+
+.. figure:: ./images/waterjet_overview.jpg
+   :align: center
+   :scale: 40 %
+
+   A waterjet cutter in operation (Ellis Dunklebarger)
 
 Use
 ---
