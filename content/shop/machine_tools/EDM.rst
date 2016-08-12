@@ -3,6 +3,12 @@
 Electrical Discharge Machining (EDM)
 ====================================
 
+.. figure:: ./images/edm_overview.jpg
+   :align: right
+   :scale: 20 %
+
+   Photo of an EDM (Ellis Dunklebarger)
+
 One of the most precise and expensive machining techniques available is the
 electrical discharge machining (EDM) technique. A conductive part is mounted to
 a computer controlled table and submerged in a dielectric fluid (commonly oil or
@@ -14,6 +20,12 @@ complete, fluid rushes in to sweep away waste material and cool the part. The
 workpiece is slowly eroded away until it is the desired shape. Electrodes are a
 significant cost of operating the machine. Systems that use a wire electrode
 pass it through the cutting area only once, then it is discarded.
+
+.. figure:: ./images/edm_closeup.jpg
+   :align: center
+   :scale: 50 %
+
+   Wire EDM (Ellis Dunklebarger)
 
 The "kerf" of this process is very consistent around 0.001 in (0.03 mm).
 Therefore, machining accuracy of about 0.001 in (0.03 mm) is common, with an

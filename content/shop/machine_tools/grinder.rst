@@ -1,5 +1,11 @@
 .. _grinder:
 
+.. figure:: ./images/bench_grinders.jpg
+   :align: right
+   :scale: 20 %
+
+   Bench and Tool Grinders (Ellis Dunklebarger)
+
 Grinders
 ========
 
@@ -8,6 +14,18 @@ most common forms are the bench and angle grinders. For grinding surfaces to
 be very precise and smooth, there are also surface and cylindrical grinders
 that have grinding wheels held in precision stages and the part is moved via
 an automatic feed mechanism.
+
+.. figure:: ./images/cylindrical_grinder.jpg
+   :align: center
+   :scale: 25 %
+
+   Cylindrical Grinder (Ellis Dunklebarger)
+
+.. figure:: ./images/surface_grinder.jpg
+   :align: center
+   :scale: 40 %
+
+   Surface Grinder (Ellis Dunklebarger)
 
 Use
 ---

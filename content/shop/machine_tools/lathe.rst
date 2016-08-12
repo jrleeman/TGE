@@ -3,12 +3,24 @@
 Lathe
 =====
 
+.. figure:: ./images/lathe_running_closeup.jpg
+   :align: right
+   :scale: 10 %
+
+   Turning Acrylic (Ellis Dunklebarger)
+
 The lathe is one of the most commonly used tools in the machine shop. It rotates
 the workpiece that is gripped in a chuck. The headstock that drives the chuck
 may be belt or gear driven, but is adjustable in speed to generate the correct
 surface speed for a given part size and operation. The material is cut by tools
 held stationary on a carriage that travels up and down the lathe bed. The lathe
 is the only machine tool that can completely build itself.
+
+.. figure:: ./images/lathe_running.jpg
+   :align: right
+   :scale: 30 %
+
+   Tool Room Lathe (Ellis Dunklebarger)
 
 Lathes are commonly used to turn down parts, bore holes, cut threads or grooves,
 facing parts, and cutting off parts. Learning each of these operations is
