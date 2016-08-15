@@ -1,8 +1,7 @@
 .. _syllabus:
 
-Syllabus - Techniques of Geoscientific Experimentation
-======================================================
-
+Syllabus
+========
 
 GEOSC 597-003
 
