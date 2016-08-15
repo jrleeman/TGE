@@ -35,3 +35,10 @@ you have of completing a project that is useful to you in your research. **Due
 Media
 -----
 Lecture slides and video will be posted here after the lecture is given.
+
+Instructor Notes
+----------------
+It is helpful to bring a Phillips screwdriver and set of diagonal cutters. The
+screwdriver is useful for helping students attach the Arduino to the base plate
+and the cutters are used to remove the zip-tie around the included jumper
+wires in the kit.
