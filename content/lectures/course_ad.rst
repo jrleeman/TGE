@@ -13,21 +13,29 @@ and control.**
 
 Content
 -------
-No matter what you do in geology or geophysics, you will need to measure
-something. Measurement is a complex problem with many instrument effects,
-environmental biases, and complex system-level interactions. In this course
-students will learn the principles of experimental design and the practical
-aspects of using sensors to make reliable and effective measurements of
-extrinsic physical variables, including force, displacement, temperature, stress
-and strain. After learning basic measurement and signal theory, we will cover
-transducers and their calibration, simple concepts in analog electronics,
-instrument testing, and documentation. Much of our work will be based on the
-Arduino platform, with additional exposure to other open-source platforms such
-as Beagle Bone. Students will develop Arduino approaches for signal measurement
-and experiment control, and ultimately conduct a basic research project in which
-they design a system to collect measurements in the lab or field. We will also
-cover aspects of mechanical design and how to communicate your design to the
-machine shop, 3D printer, or other manufacturing service. 
+Hands-on introduction to the principles of measurement, control and experimental
+design.  Digital formats and representation, file structure, practical aspects
+of sensors. Introduction to transducers and digital representation of analog
+measurement.  Design of reliable and effective measurements of physical
+variables including force, displacement, temperature, stress and strain.  Analog
+to digital conversion, real-time data display, practical introduction to analog
+electronics including buffers and differential amplifiers, offsets and voltage
+dividers.  Transducer calibration, instrument testing, and documentation.
+Basics of mechanical design for laboratory and field-based hardware, including
+communication with machine shops.  Introduction to 3D printing and practical
+experience with 3D printers at Penn State.
 
+Much of our work will be based on the Arduino platform via the
+`Sparkfun Inventors Kit <https://www.sparkfun.com/products/12060>`_ .
+Hands on classroom activities and class projects will use this kit.  Students
+will develop approaches for signal measurement, experiment control, and data
+logging.  A course research project will be completed with the inventor’s kit.
 
-**Instructors:** Chris Marone & John Leeman
+Course Fee
+----------
+$95 (for the Sparkfun Inventor’s Kit)
+
+Instructors
+-----------
+* Chris Marone
+* John Leeman
