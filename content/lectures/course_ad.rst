@@ -37,5 +37,5 @@ $95 (for the Sparkfun Inventor’s Kit)
 
 Instructors
 -----------
-* Chris Marone
-* John Leeman
+* `Chris Marone <http://www3.geosc.psu.edu/~cjm38/>`_
+* `John Leeman <http://www.johnrleeman.com>`_
