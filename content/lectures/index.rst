@@ -21,3 +21,4 @@ Contents:
    lecture_6
    lecture_7
    lecture_8
+   lecutre_9
