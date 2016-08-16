@@ -9,21 +9,21 @@ prototyping parts. We will discuss a few of the most common gauge sets
 available, but looking through a machinists’ catalog is one of the best ways to
 learn about the wide variety of gauges and measurement tools available.
 
-Angle Gage
-----------
+Angle gauge
+-----------
 Angle gauges are used to compare inside and outside angles found on parts to a
 fixed set of reference angles. Common angles such as 60, 30 and 45 degrees are
 essential. Large sets have many different angles to choose from.
 
-Pin Gage
---------
+Pin Gauge
+---------
 Pin gauges are precisely ground rods used to determine the diameter of a hole or
 bore in a part. Pin gauges come in sets ranging from very small to very large,
 depending on the needs of the machine shop. For laboratory use, a gauge set of
 up to 0.5” is commonly used.
 
-Thread Gage
------------
+Thread Gauge
+------------
 Thread gauges are sets of mating teeth for threads of different pitches and
 sizes. The thread gauge is most commonly used to determine what type and pitch
 of thread is on an unknown part, or part that was broken and needs to be remade
@@ -37,15 +37,15 @@ the laboratory.
     </iframe>
     </div>
 
-Feeler Gage
------------
+Feeler Gauge
+------------
 The feeler gauge is a set of shims with a precise thickness joined together for
 easy storage. The feeler gauge is often used to set the distance between two
 surfaces such as electrical contacts in relays and point systems. It can also be
 used to determine the clearance for items like spark gaps and plate gaps.
 
-Hole Gage
----------
+Hole Gauge
+----------
 Hole gauges are expanding measurement tools that are compressed and inserted
 into a hole, then locked at its diameter and used as a transfer measurement.
 While not as accurate as pin gauges, they are probably the more common way to
@@ -58,21 +58,21 @@ measure diameters of holes.
     </iframe>
     </div>
 
-Telescoping Gage
-----------------
+Telescoping Gauge
+-----------------
 The telescoping gauge is used to measure distances inside the cavity of a part,
 such as a large bore or slot opening. The gauge is compressed, then inserted
 into the cavity and expanded. It is swept through the cavity to attain the
 correct dimension and used as a transfer measurement.
 
-Bore Gage
----------
+Bore Gauge
+----------
 A bore gauge is used to measure the diameter of a hole/bore larger than those
 measured by common whole gauges. Uses often include cylinder measurement in
 combustion engines and hydraulic systems.
 
-Center Gage
------------
+Center Gauge
+------------
 Center gauges are used to check the alignment of a workpiece in the lathe and to
 grind threading tools on a tool grinder. Due to their appearance, they are often
 called fishtail gauges and consist of a 60 degree inside and outside angle on a
@@ -85,16 +85,16 @@ material similar to a steel rule.
     </iframe>
     </div>
 
-Depth Gage
-----------
+Depth Gauge
+-----------
 Depth gauges are used to measure the depth of a hole. They consist of a larger
 plate with a ground surface that sits across the top of the hole, and rod that
 extends down into the whole. They can have their own scale or be used as a
 transfer measurement. The tail end of dial calipers is often used as a depth
 gauge.
 
-Height Gage
------------
+Height Gauge
+------------
 The height gauge is a precision mechanism with a Vernier, digital, or dial scale
 to measure how far above the base a part extends. Height gauges are often used
 to mark parts or measure the height of tools in tool holders to be entered into
@@ -107,8 +107,8 @@ a CNC machine control program.
     </iframe>
     </div>
 
-Dial Gage
----------
+Dial Gauge
+----------
 The dial gauge measures how much a pin is moved relative to the body of the
 gauge. These are often affixed in magnetic holders with flexible arms and used
 to ensure that round parts are centered in four jaw chucks and other machining
