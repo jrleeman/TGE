@@ -20,3 +20,4 @@ Contents:
    lecture_5
    lecture_6
    lecture_7
+   lecture_8
