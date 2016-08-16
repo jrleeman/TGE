@@ -24,7 +24,7 @@ In groups, complete the digital logic operations activity.
 
 Assignment
 ----------
-Complete the digital representation homework activity. **Due 9/27/16**
+Complete the digital representation homework activity. **Due 9/22/16**
 
 
 Materials
