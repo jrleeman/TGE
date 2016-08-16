@@ -23,3 +23,4 @@ Contents:
    lecture_8
    lecture_9
    lecture_10
+   lecture_11

@@ -1,4 +1,4 @@
-.. _lecture_7:
+.. _lecture_10:
 
 Lecture 10 - Mechanical Drawing
 ===============================
