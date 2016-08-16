@@ -2,18 +2,16 @@
 
 Reading Vernier Scales
 ======================
+The Vernier scale was invented in 1631 by a French mathematician. It is a
+secondary set of graduations on a measurement tool at a fixed fractional spacing
+of the main scale that allow a much more accurate reading of the instrument.
+Reading a Vernier scale takes some practice, but can be done very accurately.
+The Vernier is common in laboratory equipment and large machinists measuring
+tools, so being able to read it is an important skill for the experimentalist.
 
-.. figure:: ./images/icon_measurement_tools.jpg
-   :align: right
-   :scale: 50 %
+.. raw:: html
 
-`CNC Workstation (Wikipedia) <https://commons.wikimedia.org/wiki/File:NREC_Machine_Shop_Workstation.jpg>`_
-
-
-Constructing laboratory equipment requires the use of accurate measurement tools
-to produce parts with tight tolerances. In this section of the course we will
-cover some of the basic measurement tools used in the laboratory and show you
-how to read them accurately.
-
-Examples
---------
+    <div style="margin-top:10px;margin-bottom:10px">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/xssnKUtYYMo" frameborder="0" allowfullscreen>
+    </iframe>
+    </div>

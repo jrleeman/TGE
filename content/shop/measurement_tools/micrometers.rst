@@ -2,18 +2,19 @@
 
 Micrometers
 ===========
+The micrometer is a precision measuring instrument with one fixed and one
+movable face. The movable face uses a screw mechanism that allows very accurate
+measurement of the distance between the faces. Variations of the micrometer
+measure inside, outside, and depth of a part feature. In addition to the dial
+caliper, the micrometer is a must for every laboratory toolkit. For very precise
+measurements, care should be taken to not allow body heat to expand the
+micrometer frame. The zero error of a micrometer should always be checked before
+any measurement is commenced, as dirt on the faces is enough to throw off the
+reading.
 
-.. figure:: ./images/icon_measurement_tools.jpg
-   :align: right
-   :scale: 50 %
+.. raw:: html
 
-`CNC Workstation (Wikipedia) <https://commons.wikimedia.org/wiki/File:NREC_Machine_Shop_Workstation.jpg>`_
-
-
-Constructing laboratory equipment requires the use of accurate measurement tools
-to produce parts with tight tolerances. In this section of the course we will
-cover some of the basic measurement tools used in the laboratory and show you
-how to read them accurately.
-
-Reading
--------
+    <div style="margin-top:10px;margin-bottom:10px">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/VU23AIlU0Cg" frameborder="0" allowfullscreen>
+    </iframe>
+    </div>
