@@ -27,8 +27,8 @@ When using a file, be sure to select the correct roughness for the job.
 Using a fine file of soft metal will load the file teeth with chips and quickly
 become ineffective and difficult to clean. Using a smooth file for roughing work
 will take much too long and excessively wear the file, while using a roughing
-file for finishing work will result in a poor surface finish is likely the
-removal of excessive amounts of material.
+file for finishing work will result in a poor surface finish and is likely to lead
+to the removal of excessive amounts of material.
 
 .. raw:: html
 
