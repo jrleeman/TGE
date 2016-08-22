@@ -26,7 +26,7 @@ Complete the designing a state machine activity.
 
 Assignment
 ----------
-Complete the ref:`arduino_stoplight` activity.
+Complete the :ref:`arduino_stoplight` activity.
 Email us your completed code. **Due 9/27/16**
 
 Materials
