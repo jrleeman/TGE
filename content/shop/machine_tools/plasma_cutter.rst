@@ -26,5 +26,5 @@ how to perform a basic cut.
 Safety Precautions
 ------------------
 The main safety hazards are flying hot metal and UV exposure. Protective dark
-eyewear, gloves, and clothing should be worn. Be careful to now allow the cut
+eyewear, gloves, and clothing should be worn. Be careful not to allow the cut
 parts to fall on your feet when cutting.
