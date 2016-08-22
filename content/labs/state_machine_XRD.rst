@@ -14,7 +14,7 @@ X-ray diffraction is a commonly used laboratory technique to study the
 properties of crystals or determine the makeup of a bulk sample. The video above
 summarizes the operation of a diffractometer and shows one in operation. An
 X-ray diffractometer emits X-ray radiation towards the sample at a known angle
-Theta. The radiation is elastically scattered off atoms in the crystalline
+:math:`\theta`. The radiation is elastically scattered off atoms in the crystalline
 lattice. The angle of reflection is equal to the angle of incidence. The
 reflected radiation is counted by a detector. By sweeping the emitter and
 detector through a range of angles. we will see peaks in the X-ray spectra
