@@ -15,7 +15,7 @@ and equipment. The main tools of the mill, lathe, and drill-press will be
 introduced, along with a few other useful, but less common tools. Learning to
 use these tools requires practice in the shop with an experienced supervisor to
 ensure your safety. Here we will introduce the machines, discuss basic use, and
-some safety precautions that could be observed when machining.
+some safety precautions that should be observed when machining.
 
 Contents:
 

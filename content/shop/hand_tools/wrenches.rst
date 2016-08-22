@@ -60,7 +60,7 @@ Types of Wrenches
   over the tube, but still encircle the fitting to provide a positive purchase.
   The wrench is commonly much thicker than standard wrenches to distribute the
   tightening force over a larger surface area to reduce the risk of damage to
-  pipe fittings, which are commonly make of soft metals.
+  pipe fittings, which are commonly made of soft metals.
 
  .. figure:: ./images/adjustable_wrench.jpg
   :align: right
@@ -162,5 +162,6 @@ If the tool slips off of the fastener, it is easy to skin, pinch, or crush your
 hands. Gloves may be worn during operation, but an engaged and attentive user
 is the best safety precaution. **NEVER** use a wrench for anything but its
 intended purpose, doing so will likely result in damage to the tool and you.
-As mentioned above, extension bars are also not a good idea as they often
-over stress the tool.
+Using the wrong tool is also far more likely to strip the fastener, which
+should be avoided. As mentioned above, extension bars are also not a good idea
+as they often over stress the tool.

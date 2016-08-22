@@ -75,7 +75,7 @@ Analog inputs are used to measure a voltage. The Uno has 6 of them labeled
 A0-A5. The hardware that does the work of turning a voltage into a digital
 representation is called an analog-to-digital converter (ADC). In this case the
 ADC is built into the ATmega328P and has 10-bits of resolution. This means the
-voltage will be digitized to one of 1024 different values. Be default the input
+voltage will be digitized to one of 1024 different values. By default the input
 range is 0-5 VDC, but that can be changed by providing a reference voltage to
 the AREF pin.
 
