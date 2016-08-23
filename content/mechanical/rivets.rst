@@ -1,0 +1,6 @@
+.. _rivets:
+
+Rivets
+======
+
+Rivets ......
