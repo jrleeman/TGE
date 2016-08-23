@@ -26,3 +26,4 @@ Contents:
    3D_print_activity
    arduino_stoplight
    state_machine_XRD
+   digital_representation
