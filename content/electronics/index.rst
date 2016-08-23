@@ -17,3 +17,5 @@ Contents:
    :maxdepth: 1
 
    arduino_setup
+   electronics_resources
+   

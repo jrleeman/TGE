@@ -18,3 +18,5 @@ Contents:
 
 .. toctree::
    :maxdepth: 1
+
+   mechanical_resources

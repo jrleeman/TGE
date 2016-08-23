@@ -22,3 +22,4 @@ Contents:
    hand_tools/index
    machine_tools/index
    measurement_tools/index
+   shop_resources
