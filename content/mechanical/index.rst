@@ -18,3 +18,9 @@ Contents:
 
 .. toctree::
    :maxdepth: 1
+
+   screws
+   threads
+   rivets
+   pins
+   retaining_rings
