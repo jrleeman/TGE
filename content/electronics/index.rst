@@ -19,3 +19,4 @@ Contents:
    arduino_setup
    prototyping_techniques
    soldering
+   data_acquisition
