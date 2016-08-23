@@ -17,4 +17,3 @@ Contents:
    :maxdepth: 1
 
    arduino_setup
-   analog_to_digital
