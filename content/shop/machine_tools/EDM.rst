@@ -32,6 +32,14 @@ Therefore, machining accuracy of about 0.001 in (0.03 mm) is common, with an
 order of magnitude improvement possible for very high tolerance parts. The EDM
 surface finish is also very good.
 
+Safety Precautions
+------------------
+The main safety hazard with EDM is shock and slip. Avoid contact with the
+dielectric fluid or part when the machine is in operation. If the dielectric is
+spilled or is on your hands, make sure it is promptly cleaned as it is a slip
+and dropping hazard. Talk to your machine shop supervisor to learn any safety
+precautions specific to your machine and shop.
+
 .. raw:: html
 
     <div style="margin-top:10px;margin-bottom:10px">
