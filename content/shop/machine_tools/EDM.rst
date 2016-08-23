@@ -52,6 +52,7 @@ shop.
 
 Safety Precautions
 ------------------
+The main safety hazards with EDM are shock and slip. Avoid contact with the
 dielectric fluid or part when the machine is in operation. If the dielectric is
 spilled or is on your hands, make sure it is promptly cleaned as it is a slip
 and dropping hazard. Talk to your machine shop supervisor to learn any safety
