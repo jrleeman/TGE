@@ -17,3 +17,5 @@ Contents:
    :maxdepth: 1
 
    arduino_setup
+   prototyping_techniques
+   soldering
