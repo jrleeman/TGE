@@ -20,3 +20,5 @@ Contents:
 
 .. toctree::
    :maxdepth: 1
+
+   transducer_resources
