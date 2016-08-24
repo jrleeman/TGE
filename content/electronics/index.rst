@@ -17,3 +17,4 @@ Contents:
    :maxdepth: 1
 
    arduino_setup
+   test_equipment/index
