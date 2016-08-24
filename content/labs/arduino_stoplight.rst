@@ -21,8 +21,8 @@ Materials
 * Arduino UNO
 * USB Cable
 * LEDs (Red, Yellow, Green)
-* 100 :math:`\Omega` resistors (Brown-Black-Brown)
-* 2.2k :math:`\Omega` resistor (Red-Red-Red)
+* 330 :math:`\Omega` resistors (Brown-Black-Brown)
+* 10k :math:`\Omega` resistor (Red-Red-Red)
 * Push button (momentary-on type)
 * Breadboard
 * M/M Jumper wires
