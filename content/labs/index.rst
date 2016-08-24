@@ -35,3 +35,4 @@ Contents:
    component_basics_activity
    thermistor_calculation
    calibration_activity
+   strain_gage_activity
