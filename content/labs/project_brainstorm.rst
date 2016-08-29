@@ -19,4 +19,7 @@ will have several characteristics:
 * Will not cost thousands of dollars to build.
 * Does not put you or others in the path of potential harm or danger.
 
-Brainstorm 5 potential project ideas.
+Brainstorm 5 potential project ideas. Think about the problem and potential ways
+to approach it. Sketching ideas may help your brainstorming. Turn your project
+ideas in on paper or via email. Setup a meeting with the instructors to discuss
+your ideas.
