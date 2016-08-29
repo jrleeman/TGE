@@ -32,7 +32,7 @@ the measurement tools to practice taking measurements of parts.
 
 Assignment
 ----------
-Watch the threading video on the :ref: `threading_activity` page. We will be
+Watch the threading video on the :ref:`threading_activity` page. We will be
 doing it next lecture. This video will help you be prepared. Remember to wear
 shop appropriate clothing! **Due 9/6/16**
 
