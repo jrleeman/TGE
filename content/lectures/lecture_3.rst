@@ -26,11 +26,10 @@ activity. Read the details about the Arduino on the :ref:`arduino_setup` page.
 
 Assignment
 ----------
-Complete the project brainstorm activity under the lab exercises section of the
-website. You should have 5 ideas for a project and have setup a meeting with the
-instructors by the due date. The earlier you begin on this, the better chance
-you have of completing a project that is useful to you in your research. **Due
-9/6/16**
+Complete the :ref:`project_brainstorm` activity. You should have 5 ideas for a
+project and have setup a meeting with the instructors by the due date. The
+earlier you begin on this, the better chance you have of completing a project
+that is useful to you in your research. **Due 9/6/16**
 
 Media
 -----
