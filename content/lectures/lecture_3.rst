@@ -33,7 +33,7 @@ that is useful to you in your research. **Due 9/6/16**
 
 Media
 -----
-Lecture slides and video will be posted here after the lecture is given.
+:download:`Lecture 3 Slides <Lecture_3_Slides.pdf>`
 
 Instructor Notes
 ----------------
