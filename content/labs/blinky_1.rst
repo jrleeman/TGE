@@ -19,13 +19,15 @@ We will use the Arduino interactive development environment (IDE) to write our
 code, compile, and upload it to the Arduino. This is a free tool that is
 actively maintained by the open-source community. It is available for Mac,
 Windows, and Linux machines from the `Arduino Software page
-<https://www.arduino.cc/en/Main/Software>`_.
+<https://www.arduino.cc/en/Main/Software>`_. You'll also need the drivers for
+the FTDI USB to Serial converter, available from the
+`FTDI download page <http://www.ftdichip.com/FTDrivers.htm>`_ .
 
-Download and install the software as you would any other application on your
-machine. Each project will need to be stored in a directory (folder) named the
-same thing as the project. It is recommended to store all of these projects in
-the "Arduino" directory, created in your documents folder after installing the
-IDE.
+Download and install the software and FTDI drivers as you would any other
+application on your machine. Reboot after installation. Each project will need
+to be stored in a directory (folder) named the same thing as the project. It is
+recommended to store all of these projects in the "Arduino" directory, created
+in your documents folder after installing the IDE.
 
 Your First Program
 ------------------
