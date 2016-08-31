@@ -35,6 +35,13 @@ Media
 -----
 :download:`Lecture 3 Slides <Lecture_3_Slides.pdf>`
 
+.. raw:: html
+
+    <div style="margin-top:10px;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/jIyQ2RMdodQ" frameborder="0" allowfullscreen>
+    </iframe>
+    </div>
+
 Instructor Notes
 ----------------
 It is helpful to bring a Phillips screwdriver and set of diagonal cutters. The
