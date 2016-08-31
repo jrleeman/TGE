@@ -16,7 +16,7 @@ Axial Rings
    :align: center
    :scale: 40 %
 
-   `Axial retaining rings (Image: Wikipedia) <https://en.wikipedia.org/wiki/Retaining_ring#/media/File:Axial_Rings.jpg>`_
+   `Axial retaining rings (Image: Wikipedia) <https://commons.wikimedia.org/wiki/File:Axial_Rings.jpg>`_
 
 These rings are installed into grooves on a shaft or in a housing by compressing
 or expanding them with special pliers and then slipping them over the end of the
@@ -29,7 +29,7 @@ Radial Rings
    :align: center
    :scale: 30 %
 
-   `Radial retaining rings (Image: Wikipedia) <https://en.wikipedia.org/wiki/Retaining_ring#/media/File:Radial_Rings.jpg>`_
+   `Radial retaining rings (Image: Wikipedia) <https://commons.wikimedia.org/wiki/File:Radial_Rings.jpg>`_
 
 Radial rings are slipped over the side of a shaft into a machined groove. There
 are special tools available for installation, but often a simple pair of locking

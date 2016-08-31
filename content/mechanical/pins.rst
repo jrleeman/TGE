@@ -60,7 +60,7 @@ Split Pins
    :align: right
    :scale: 20 %
 
-   `Split Pins (Image: Wikipedia) <https://en.wikipedia.org/wiki/Split_pin#/media/File:CotterPins.svg>`_
+   `Split Pins (Image: Wikipedia) <https://commons.wikimedia.org/wiki/File:CotterPins.svg>`_
 
 Split pins are slightly differently defined depending on your locale. In the US
 a split pin is a crimped wire that slides into a hole through a part (commonly
