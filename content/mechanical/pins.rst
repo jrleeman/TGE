@@ -46,7 +46,7 @@ Taper Pins
    :align: center
    :scale: 40 %
 
-   Taper Pin (Image: `Wikipedia <https://en.wikipedia.org/wiki/Taper_pin#/media/File:Taper_pin_ISO2339_application_en.png>`_)
+   Taper Pin (Image: `Wikipedia <https://commons.wikimedia.org/wiki/File:Taper_pin_ISO2339_application_en.png>`_)
 
 Taper pins are very similar to dowel pins, except that they are slightly smaller
 on one end. Imperial sized pins generally have a 1:48 taper and metric pins a
