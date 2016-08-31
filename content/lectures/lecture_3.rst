@@ -33,7 +33,14 @@ that is useful to you in your research. **Due 9/6/16**
 
 Media
 -----
-Lecture slides and video will be posted here after the lecture is given.
+:download:`Lecture 3 Slides <Lecture_3_Slides.pdf>`
+
+.. raw:: html
+
+    <div style="margin-top:10px;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/jIyQ2RMdodQ" frameborder="0" allowfullscreen>
+    </iframe>
+    </div>
 
 Instructor Notes
 ----------------
