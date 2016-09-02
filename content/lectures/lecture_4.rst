@@ -39,4 +39,4 @@ shop appropriate clothing! **Due 9/6/16**
 
 Media
 -----
-Lecture slides and video will be posted here after the lecture is given.
+:download:`Lecture 4 Slides <Lecture_4_Slides.pdf>`
