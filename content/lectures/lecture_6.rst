@@ -23,6 +23,7 @@ Class Plan
 * Show wire-wrap construction examples
 * Talk about Copper board construction (skywire, deadbug, Manhattan)
 * Show a custom PCB
+* Cover basic soldering equuipment and techniques
 
 Activity
 --------
