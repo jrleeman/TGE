@@ -18,11 +18,12 @@ techniques commonly used on the bench and in the lab.
 Class Plan
 ----------
 * Talk about the various levels of permanence of prototypes (development, semi-permanent, permanent, production)
-* Show breadboard and jumper construction technique (do activity listed below)
+* Show breadboard and jumper construction technique
 * Examples of Perfboard and point-to-point wiring (including strip/bus board)
 * Show wire-wrap construction examples
 * Talk about Copper board construction (skywire, deadbug, Manhattan)
 * Show a custom PCB
+* Cover basic soldering equuipment and techniques
 
 Activity
 --------
@@ -32,7 +33,7 @@ the :ref:`blinky_2.0` activity.
 
 Assignment
 ----------
-Write a one page or less final project proposal. Think of this as writing the
+Complete the :ref:`project_proposal` assignment. Think of this as writing the
 assignment for your final project. The idea and features must be settled now for
 you to be able to plan and complete the project on time. **Due 9/13/16**
 
