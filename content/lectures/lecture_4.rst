@@ -40,3 +40,10 @@ shop appropriate clothing! **Due 9/6/16**
 Media
 -----
 :download:`Lecture 4 Slides <Lecture_4_Slides.pdf>`
+
+.. raw:: html
+
+    <div style="margin-top:10px;">
+    <iframe width="560" height="315" src="https://youtu.be/cQYTqGTarro" frameborder="0" allowfullscreen>
+    </iframe>
+    </div>
