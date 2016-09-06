@@ -44,6 +44,6 @@ Media
 .. raw:: html
 
     <div style="margin-top:10px;">
-    <iframe width="560" height="315" src="https://youtu.be/cQYTqGTarro" frameborder="0" allowfullscreen>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/cQYTqGTarro" frameborder="0" allowfullscreen>
     </iframe>
     </div>
