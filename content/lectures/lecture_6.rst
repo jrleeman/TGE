@@ -39,4 +39,4 @@ you to be able to plan and complete the project on time. **Due 9/13/16**
 
 Media
 -----
-Lecture slides and video will be posted here after the lecture is given.
+:download:`Lecture 6 Slides <Lecture_6_Slides.pdf>`
