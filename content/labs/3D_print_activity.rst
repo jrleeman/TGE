@@ -33,3 +33,15 @@ shipping!
 .. figure:: ./images/3d_examples.png
    :align: right
    :scale: 70 %
+
+Grading Rubric
+--------------
+
+============================== ==========
+Description                    Max Points
+============================== ==========
+Turned in on time              5
+Part created or modified       20
+Design for 3D printing         20
+Total                          45
+============================== ==========

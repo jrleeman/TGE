@@ -47,3 +47,17 @@ dye available, it is especially helpful.
     <iframe width="420" height="315" src="https://www.youtube.com/embed/KmtbzL8YlxM" frameborder="0" allowfullscreen>
     </iframe>
     </div>
+
+Grading Rubric
+--------------
+
+============================== ==========
+Description                    Max Points
+============================== ==========
+Turned in on time              5
+Parts screw together           30
+Centering of hole              10
+Threads on dowel               10
+Threads in plate               10
+Total                          65
+============================== ==========

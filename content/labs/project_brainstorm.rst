@@ -23,3 +23,15 @@ Brainstorm 5 potential project ideas. Think about the problem and potential ways
 to approach it. Sketching ideas may help your brainstorming. Turn your project
 ideas in on paper or via email. Setup a meeting with the instructors to discuss
 your ideas.
+
+Grading Rubric
+--------------
+
+============================== ==========
+Description                    Max Points
+============================== ==========
+Completed on time              5
+Presented 5 ideas              25
+Projects within guidelines     5
+Total                          35
+============================== ==========

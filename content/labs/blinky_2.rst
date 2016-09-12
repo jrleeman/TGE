@@ -36,3 +36,15 @@ Procedure
 * Based on the code we used in the :ref:`blinky_1.0` activity, write a new program that blinks the LEDs in an alternating pattern.
 
 * Get creative. What patterns can you make? Can you add more LEDs or change the pin assignment for each LED?
+
+Grading Rubric
+--------------
+
+============================== ==========
+Description                    Max Points
+============================== ==========
+Turned in on time              5
+Code Compiles                  10
+LEDs blink in a pattern        10
+Total                          25
+============================== ==========

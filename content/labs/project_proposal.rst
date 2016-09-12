@@ -26,7 +26,7 @@ To help aid your writing, we've created a sample project proposal. Your
 proposal does not need to have this exact structure, but we have created it
 to clearly show what needs to be addressed in your document.
 
-:download:`Example Proposal <Example_Proposal.pdf>` 
+:download:`Example Proposal <Example_Proposal.pdf>`
 
 Grading Rubric
 --------------
@@ -34,9 +34,10 @@ Grading Rubric
 ============================== ==========
 Description                    Max Points
 ============================== ==========
-Document turned in on time     5
-Describes problem              20
-Describes what will be built   20
-Has estimate of project budget 20
-Total                          65
+Turned in on time              5
+Describes Problem              10
+Describes Solution             10
+Describes Resources Needed     10
+Has Project Budget             10
+Total                          45
 ============================== ==========

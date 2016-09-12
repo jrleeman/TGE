@@ -252,3 +252,15 @@ software.
 
 Images from the `Sparkfun Flex Tutorial <https://learn.sparkfun.com/tutorials/flex-sensor-hookup-guide>`_
 are licensed under `CC BY-NC-SA 3.0 <http://creativecommons.org/licenses/by-nc-sa/3.0/>`_ .
+
+Grading Rubric
+--------------
+
+============================== ==========
+Description                    Max Points
+============================== ==========
+Turned in on time              5
+Electronics complete           10
+Graph of data sent in          10
+Total                          25
+============================== ==========

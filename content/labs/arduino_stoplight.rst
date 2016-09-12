@@ -68,3 +68,15 @@ Requirements
   button) **before** the green light state, add a green left turn light for 2
   seconds. If no car is present, repeat the cycle.
 * Uses the state machine implementation with functionalized code. No interrupts allowed!
+
+Grading Rubric
+--------------
+
+============================== ==========
+Description                    Max Points
+============================== ==========
+Turned in on time              5
+Code Compiles                  20
+Meets Project Requirements     40
+Total                          65
+============================== ==========
