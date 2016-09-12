@@ -2,6 +2,11 @@
 
 Data Acquisition
 ================
+
+.. figure:: ./images/data_acq_flow.png
+   :align: center
+   :scale: 100 %
+
 In most apparatus we need to record something about the physical system in a
 format to analyze later, commonly digital data. In this section we will examine
 how the data acquisition chain works and discuss each part and its role in
