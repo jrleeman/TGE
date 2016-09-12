@@ -111,3 +111,13 @@ small part of the world. You can keep exploring by checking out the examples in
 the File > Examples menu. Examples are one of the best ways to learn, and the
 included examples are thoroughly commented. Go through a few, even if you just
 read them, to get used to reading the code.
+
+Grading Rubric
+--------------
+
+============================== ==========
+Description                    Max Points
+============================== ==========
+Activity Completed             10
+Total                          10
+============================== ==========

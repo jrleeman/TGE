@@ -20,3 +20,13 @@ Questions
 * What techniques were used to create the part? Why?
 * What fasteners were chosen? Why?
 * What is the part made of? Why?
+
+Grading Rubric
+--------------
+
+============================== ==========
+Description                    Max Points
+============================== ==========
+Participation in class         5
+Total                          5
+============================== ==========

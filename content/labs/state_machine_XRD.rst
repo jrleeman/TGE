@@ -60,3 +60,17 @@ Using what we've learned in class about state machines and state machine
 diagrams, draw a state machine diagram that describes the operation of the X-ray
 diffractometer. Remember to specify start and end points, error sources, and
 keep the number of states reasonable.
+
+Grading Rubric
+--------------
+
+============================== ==========
+Description                    Max Points
+============================== ==========
+Turned in on time              5
+Number of states               5
+Logical flow of machine        20
+Error sources included         5
+Follows users story            20
+Total                          55
+============================== ==========
