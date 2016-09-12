@@ -23,7 +23,7 @@ Using your inventor’s kit complete the :ref:`flex_data_acquisition` activity.
 
 Assignment
 ----------
-Complete the ref:`flex_data_acquisition` activity if you did not during class.
+Complete the :ref:`flex_data_acquisition` activity if you did not during class.
 Email us a plot (from the Arduino IDE, or one that you made) of your flex sensor
 flexing. **Due 9/15/16**
 
