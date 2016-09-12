@@ -16,7 +16,7 @@ will have several characteristics:
 
 * Uses multiple disciplines we discuss (i.e. mechanical, electrical, software, etc.)
 * Solves a problem with no commercial solution or no economical commercial solution.
-* Will not cost thousands of dollars to build.
+* Will not cost thousands of dollars to build. Plan on $50-$100.
 * Does not put you or others in the path of potential harm or danger.
 
 Brainstorm 5 potential project ideas. Think about the problem and potential ways
