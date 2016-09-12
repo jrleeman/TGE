@@ -19,3 +19,24 @@ that describes:
 
 This will serve as the specification document for your project goals at the end
 of the term.
+
+Example
+-------
+To help aid your writing, we've created a sample project proposal. Your
+proposal does not need to have this exact structure, but we have created it
+to clearly show what needs to be addressed in your document.
+
+:download:`Example Proposal <Example_Proposal.pdf>` 
+
+Grading Rubric
+--------------
+
+============================== ==========
+Description                    Max Points
+============================== ==========
+Document turned in on time     5
+Describes problem              20
+Describes what will be built   20
+Has estimate of project budget 20
+Total                          65
+============================== ==========
