@@ -22,7 +22,7 @@ Class Plan
 
 Activity
 --------
-Complete the designing a state machine activity.
+Complete the :ref:`state_machine_XRD` activity.
 
 Assignment
 ----------
