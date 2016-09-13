@@ -35,7 +35,7 @@ Assignment
 ----------
 Complete the :ref:`project_proposal` assignment. Think of this as writing the
 assignment for your final project. The idea and features must be settled now for
-you to be able to plan and complete the project on time. **Due 9/13/16**
+you to be able to plan and complete the project on time. **Due 9/15/16**
 
 Media
 -----
