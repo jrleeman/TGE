@@ -23,7 +23,7 @@ Class Plan
 * Show wire-wrap construction examples
 * Talk about Copper board construction (skywire, deadbug, Manhattan)
 * Show a custom PCB
-* Cover basic soldering equuipment and techniques
+* Cover basic soldering equipment and techniques
 
 Activity
 --------
@@ -35,8 +35,15 @@ Assignment
 ----------
 Complete the :ref:`project_proposal` assignment. Think of this as writing the
 assignment for your final project. The idea and features must be settled now for
-you to be able to plan and complete the project on time. **Due 9/13/16**
+you to be able to plan and complete the project on time. **Due 9/15/16**
 
 Media
 -----
-Lecture slides and video will be posted here after the lecture is given.
+:download:`Lecture 6 Slides <Lecture_6_Slides.pdf>`
+
+.. raw:: html
+
+    <div style="margin-top:10px;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/V7ojahKpmI4" frameborder="0" allowfullscreen>
+    </iframe>
+    </div>

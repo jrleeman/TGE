@@ -32,4 +32,5 @@ lecture. Contact us if you need assistance in the laboratory. **Due 9/8/16**
 
 Media
 -----
-Lecture slides and video will be posted here after the lecture is given.
+No slides or video for this lecture - see the machine tools section of the
+course content for a summary of what was seen on the machine shop field trip.
