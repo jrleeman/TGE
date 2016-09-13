@@ -40,3 +40,10 @@ you to be able to plan and complete the project on time. **Due 9/15/16**
 Media
 -----
 :download:`Lecture 6 Slides <Lecture_6_Slides.pdf>`
+
+.. raw:: html
+
+    <div style="margin-top:10px;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/V7ojahKpmI4" frameborder="0" allowfullscreen>
+    </iframe>
+    </div>
