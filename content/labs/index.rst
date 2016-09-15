@@ -23,7 +23,7 @@ Contents:
    blinky_2
    project_proposal
    flex_data_acquisition
-   3D_print_activity
-   arduino_stoplight
    state_machine_XRD
+   arduino_stoplight
+   3D_print_activity
    digital_representation
