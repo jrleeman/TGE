@@ -32,7 +32,7 @@ head indicate the grade and can be looked up in a
 It is common to use screws and bolts with buts for parts with a clear-fit hole.
 `Washers <https://en.wikipedia.org/wiki/Washer_(hardware)>`_
 are used to distribute the load and reduce surface deformation. Locking
-washers and prevent the assembly from loosening with vibration and use.
+washers prevent the assembly from loosening with vibration and use.
 Compounds such as `Loctite <http://www.loctite.com>`_ are also often used to
 lock threaded fasteners.
 
