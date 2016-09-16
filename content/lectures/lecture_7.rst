@@ -28,6 +28,20 @@ Email us a plot (from the Arduino IDE, or one that you made) of your flex sensor
 flexing. **Due 9/15/16**
 
 
-Materials
----------
-Lecture slides and video will be posted here after the lecture is given.
+Media
+-----
+:download:`Lecture 7 Slides <Lecture_7_Slides.pdf>`
+
+.. raw:: html
+
+    <div style="margin-top:10px;">
+    
+    </div>
+
+Instructor Notes
+----------------
+A few additional items need to be brought to class to accomplish the in-class
+activity:
+
+* Multimeters to measure resistance of resistors and bend strip
+* 47k resistors to use in the voltage divider
