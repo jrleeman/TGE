@@ -29,6 +29,12 @@ Assignment
 Complete the :ref:`arduino_stoplight` activity.
 Email us your completed code. **Due 9/27/16**
 
-Materials
----------
-Lecture slides and video will be posted here after the lecture is given.
+Media
+-----
+:download:`Lecture 8 Slides <Lecture_8_Slides.pdf>`
+
+.. raw:: html
+
+    <div style="margin-top:10px;">
+
+    </div>
