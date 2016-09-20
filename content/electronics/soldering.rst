@@ -74,8 +74,9 @@ Tools
 
 * **Solder Vacuum** - When removing many through-hole components, it is useful
   to purchase a solder vacuum. These can be a separate tool used to suck up
-  melted solder or a dedicate iron with hollow tip and vacuum pump. Desoldering
-  with these tools can be very fast.
+  melted solder or a dedicated desoldering iron with a hollow tip and built in 
+  vacuum pump. Desoldering with these tools can be very fast.
+
 
   .. figure:: ./images/solder_vac.jpg
      :align: center
