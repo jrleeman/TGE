@@ -27,6 +27,12 @@ Assignment
 Complete the digital representation homework activity. **Due 9/22/16**
 
 
-Materials
----------
-Lecture slides and video will be posted here after the lecture is given.
+Media
+-----
+:download:`Lecture 9 Slides <Lecture_9_Slides.pdf>`
+
+.. raw:: html
+
+    <div style="margin-top:10px;">
+    
+    </div>
