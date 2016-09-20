@@ -12,17 +12,17 @@ numbers in decimal (base 10), hexadecimal (base 8), or pure binary (base 2).
 =======  ===========  =========
 Decimal  Hexadecimal  Binary
 =======  ===========  =========
-                      0110_0111
-         0x0D
-124
-                      1111_1111
-256
-         0xDE
-                      1010_1101
-190
-         0xFF
-                      1010_1010
-85
+\        \            0110_0111
+\        0x0D
+124      \            \
+\        \            1111_1111
+256      \            \
+\        0xDE         \
+\        \            1010_1101
+190      \            \
+\        0xFF         \
+\        \            1010_1010
+85       \            \ 
 =======  ===========  =========
 
 2. What is the largest decimal value that can be represented by an 8 bit binary
