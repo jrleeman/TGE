@@ -5,6 +5,7 @@ Digital Representation
 
 Computers communicate with a binary (on/off) logic system. We can represent
 numbers in decimal (base 10), hexadecimal (base 8), or pure binary (base 2).
+All binary numbers are represented in **big endian** format.
 
 1. Complete the table below with the other two forms of the given number.
    (2 pts. each)
@@ -22,7 +23,7 @@ Decimal  Hexadecimal  Binary
 190      \            \
 \        0xFF         \
 \        \            1010_1010
-85       \            \ 
+85       \            \
 =======  ===========  =========
 
 2. What is the largest decimal value that can be represented by an 8 bit binary
