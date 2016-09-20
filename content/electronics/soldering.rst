@@ -16,7 +16,7 @@ Tools
 * **Soldering Iron** - A good soldering iron must have an adjustable temperature
   control. Irons that just plug into the wall are nicknamed "fire starters" and
   should never be used - they are a good way to burn off PCB pads or wait for
-  long times to heat large joints. Sticking with a reputable branch (Hakko, JRC)
+  long times to heat large joints. Sticking with a reputable brand (Hakko, JRC)
   is recommended. You should purchase a large number of the iron tips for
   replacement and for different tasks. A needle point tip is often used by
   beginners, but is **NOT** an effective tip for most applications. A narrow

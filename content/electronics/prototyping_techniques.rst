@@ -103,7 +103,7 @@ the wire to a square post with sharp corners. Wire wrapping is often used to
 prototype digital circuits in a semi-permanent way. Modifying wire wrap boards
 can become time consuming when many wires are connected to a single post or
 there are many overlapping wires. Special sockets for parts are required for
-this technique, but it can be an fast way to prototype and was often used in the
+this technique, but it can be a fast way to prototype and was often used in the
 design of early computers.
 
 Wire wrapped designs are good for relatively high speed circuits, but not
