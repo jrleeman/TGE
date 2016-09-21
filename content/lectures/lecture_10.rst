@@ -23,14 +23,20 @@ Class Plan
 
 Activity
 --------
-Complete the simple mechanical drawing activity in class.
+Complete the :ref:`mechanical_drawing_activity` in class.
 
 Assignment
 ----------
 Complete the drawing assignment if not completed during class. Parts must be
 returned with the drawing. Sign up for a free
-`OnShape <https://www.onshape.com>`_ CAD account. Due 9/27/16
+`OnShape <https://www.onshape.com>`_ CAD account. **Due 9/27/16**
 
-Materials
----------
-Lecture slides and video will be posted here after the lecture is given.
+Media
+-----
+:download:`Lecture 10 Slides <Lecture_10_Slides.pdf>`
+
+.. raw:: html
+
+    <div style="margin-top:10px;">
+
+    </div>
