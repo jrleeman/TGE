@@ -25,5 +25,6 @@ Contents:
    flex_data_acquisition
    state_machine_XRD
    arduino_stoplight
-   3D_print_activity
+   digital_logic_operations
    digital_representation
+   3D_print_activity
