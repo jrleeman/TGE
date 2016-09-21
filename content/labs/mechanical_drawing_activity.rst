@@ -12,7 +12,4 @@ Use the necessary measuring tools to create a fully dimensioned drawing of your
 part, on a one-to-one scale if possible. Don't forget to use any necessary
 center lines and to use good dimensioning style. Do not pick a difficult to draw
 cast part unless you really want a challenge! Brackets and simple lab
-jigs/fixtures are a good idea for your first try. See the examples below.
-
-Examples
---------
+jigs/fixtures are a good idea for your first try. 
