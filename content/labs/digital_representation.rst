@@ -4,7 +4,7 @@ Digital Representation
 ======================
 
 Computers communicate with a binary (on/off) logic system. We can represent
-numbers in decimal (base 10), hexadecimal (base 8), or pure binary (base 2).
+numbers in decimal (base 10), hexadecimal (base 16), or pure binary (base 2).
 All binary numbers are represented in **big endian** format.
 
 1. Complete the table below with the other two forms of the given number.
@@ -44,7 +44,7 @@ Decimal  Hexadecimal  Binary
 |
 
 4. Complete the table below with the unsigned and two's complement value of
-   the given binary number. (2 pts. each)
+   the given binary number. Answers should be base 10 integers. (2 pts. each)
 
 =========  ==============  ================
 Binary     Unsigned Value  Two's Complement
@@ -58,8 +58,8 @@ Binary     Unsigned Value  Two's Complement
 =========  ==============  ================
 
 5. Assume a number is stored in the IEEE 754 single-precision floating point
-   representation. The hexadecimal representation of this is 0x40490E56.
-   What is the floating point number? (5 pts.)
+   representation. The float is stored in memory as 0x40490E56.
+   What is the floating point number in decimal form? (5 pts.)
 
 |
 |
