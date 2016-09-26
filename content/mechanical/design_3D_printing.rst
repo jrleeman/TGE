@@ -38,7 +38,7 @@ stress is perpendicular to the printing layers (commonly called the z-axis).
    :align: center
    :scale: 80 %
 
-   Anisotropy of 3D print strength `(Image: i.materialise.com) <https://i.materialise.com/blog/how-to-get-the-perfect-wall-thickness-when-turning-your-3d-model-into-a-3d-print/>`_
+   `Anisotropy of 3D print strength (Image: i.materialise.com) <https://i.materialise.com/blog/how-to-get-the-perfect-wall-thickness-when-turning-your-3d-model-into-a-3d-print/>`_
 
 Wall Thickness
 --------------
@@ -52,7 +52,7 @@ and material. Both of these increase the cost of the 3-D print significantly.
    :align: center
    :scale: 80 %
 
-   3D Print Wall Thickness `(Image: i.materialise.com) <https://i.materialise.com/blog/how-to-get-the-perfect-wall-thickness-when-turning-your-3d-model-into-a-3d-print/>`_
+   `3D print wall thickness (Image: i.materialise.com) <https://i.materialise.com/blog/how-to-get-the-perfect-wall-thickness-when-turning-your-3d-model-into-a-3d-print>`_
 
 Bridges
 -------
@@ -67,7 +67,7 @@ printer to see what constraints you should follow.
    :align: center
    :scale: 40 %
 
-   `(Image: utexas.edu) <https://innovationstation.utexas.edu/tip-design/>`_
+   ..`(Image: utexas.edu) <https://innovationstation.utexas.edu/tip-design/>`_
 
 Part Clearance
 --------------
@@ -88,7 +88,7 @@ better representation of your 3-D model.
    :align: center
    :scale: 80 %
 
-   Text engraved (left) and embossed (right) `(Image: i.materialise.com) <https://i.materialise.com/blog/5-mistakes-to-avoid-when-designing-a-3d-model-for-3d-printing/>`_
+   `Different file resolutions (Image: i.materialise.com) <https://i.materialise.com/blog/5-mistakes-to-avoid-when-designing-a-3d-model-for-3d-printing/>`_
 
 Text
 ----
@@ -104,7 +104,7 @@ free to catch things and possibly be sheared off.
    :align: center
    :scale: 80 %
 
-   Text engraved (left) and embossed (right) `(Image: i.materialise.com) <https://i.materialise.com/blog/how-to-get-the-perfect-wall-thickness-when-turning-your-3d-model-into-a-3d-print/>`_
+   `Text engraved (left) and embossed (right) (Image: i.materialise.com) <https://i.materialise.com/blog/how-to-get-the-perfect-wall-thickness-when-turning-your-3d-model-into-a-3d-print/>`_
 
 Dimensional Accuracy
 --------------------
@@ -124,7 +124,7 @@ part into multiple pieces and assemble them after printing.
    :align: center
    :scale: 40 %
 
-   Dimensional output of the printer (left) compared to the solid model (right) `(Image: utexas.edu) <https://innovationstation.utexas.edu/tip-design/>`_
+   `Dimensional output of the printer (left) compared to the solid model (right) (Image: utexas.edu) <https://innovationstation.utexas.edu/tip-design/>`_
 
 Model Verification
 ------------------
