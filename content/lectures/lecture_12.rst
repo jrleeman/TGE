@@ -15,12 +15,20 @@ assemblies.
 
 Class Plan
 ----------
+* Introduce degrees of freedom of a system
+* Demonstrate basic techniques on kinematic design
+* Show journal, rolling element, and linear bearings
+* Introduce the concept of pre-loading
+* Show torsion, tension, and compression springs
+* Introduce flexures
+* Show gears, chains, and belts and power transmission methods
+* Discuss common materials used in laboratory and prototype fabrication
 
 Activity
 --------
-
-Assignment
-----------
+Look around online for materials and resources you will need for your project.
+Begin making a list of them to submit to us to order. Sign yourself up for
+catalogs from major suppliers.
 
 Media
 -----
