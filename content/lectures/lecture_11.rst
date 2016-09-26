@@ -26,7 +26,7 @@ the simple part design activity.
 Assignment
 ----------
 Using the part you created in class, or another part, complete the
-:ref:`3D_print_activity`. **Due 10/6/16**
+:ref:`3D_print_activity`. **Due 10/13/16**
 
 Materials
 ---------
