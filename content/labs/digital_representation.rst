@@ -8,7 +8,7 @@ numbers in decimal (base 10), hexadecimal (base 16), or pure binary (base 2).
 All binary numbers are represented in **big endian** format.
 
 1. Complete the table below with the other two forms of the given number.
-   (2 pts. each)
+   Assume that all values are **8-bit**. (2 pts. each, 20 total)
 
 =======  ===========  =========
 Decimal  Hexadecimal  Binary
@@ -21,13 +21,13 @@ Decimal  Hexadecimal  Binary
 \        0xDE         \
 \        \            1010_1101
 190      \            \
-\        0xFF         \
 \        \            1010_1010
 85       \            \
 =======  ===========  =========
 
-2. What is the largest decimal value that can be represented by an 8 bit binary
-   value? What about 10, 16, and 24 bits? (8 pts.)
+2. What is the largest decimal value that can be represented by an unsigned
+   8 bit binary value? Please answer is base 10. What about 10, 16, and 24 bits?
+   (8 pts.)
 
 |
 |
@@ -36,7 +36,8 @@ Decimal  Hexadecimal  Binary
 
 3. What values (two) in the table above would be easy to use as troubleshooting
    characters when looking at the signal on an oscilloscope or logic analyzer?
-   Why? (3 pts.)
+   Why? Consider the number and pattern of logic value transitions. What would
+   be easy to spot? (3 pts.)
 
 |
 |
@@ -44,7 +45,8 @@ Decimal  Hexadecimal  Binary
 |
 
 4. Complete the table below with the unsigned and two's complement value of
-   the given binary number. Answers should be base 10 integers. (2 pts. each)
+   the given binary number. *Answers should be base 10 integers*.
+   (2 pts. each, 12 total)
 
 =========  ==============  ================
 Binary     Unsigned Value  Two's Complement
@@ -74,8 +76,17 @@ Binary     Unsigned Value  Two's Complement
 |
 |
 
-7. Describe two ways you could implement a complex equation or operation on a
-   resource constrained processor like an Arduino. (6 pts.)
+7. How could you implement mathematical operations that involve floating point
+   math on a resource constrained processor, like an Arduino, without using a
+   floating point library? (3 pts.)
+
+|
+|
+|
+|
+
+8. What is a common way that complex math like sin, cos, and log are implemented
+   on resource constrained processors? (3 pts.)
 
 |
 |
