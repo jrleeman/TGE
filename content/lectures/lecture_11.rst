@@ -28,6 +28,11 @@ Assignment
 Using the part you created in class, or another part, complete the
 :ref:`3D_print_activity`. **Due 10/13/16**
 
-Materials
----------
-Lecture slides and video will be posted here after the lecture is given.
+Media
+-----
+:download:`Lecture 11 Slides <Lecture_11_Slides.pdf>`
+
+.. raw:: html
+
+    <div style="margin-top:10px;">
+    </div>

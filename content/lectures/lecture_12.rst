@@ -32,4 +32,9 @@ catalogs from major suppliers.
 
 Media
 -----
-Lecture slides and video will be posted here after the lecture is given.
+:download:`Lecture 12 Slides <Lecture_12_Slides.pdf>`
+
+.. raw:: html
+
+    <div style="margin-top:10px;">
+    </div>
