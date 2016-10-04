@@ -24,4 +24,9 @@ Assignment
 
 Media
 -----
-Lecture slides and video will be posted here after the lecture is given.
+:download:`Lecture 13 Slides <Lecture_13_Slides.pdf>`
+
+.. raw:: html
+
+    <div style="margin-top:10px;">
+    </div>
