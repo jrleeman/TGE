@@ -15,12 +15,23 @@ implement them.
 
 Class Plan
 ----------
+* Discuss the purposes of seals
+* Introduce the IP rating system
+* Cover gaskets, O-rings, D-rings, packed, and Bridgeman seals
+* Discuss backup rings
+* Discuss seal glands
+* Show how varies threads seal
+* Introduce vacuum fittings and seals
+* Introduce basic epoxies
 
 Activity
 --------
+* Swagelok demo in the laboratory
 
 Assignment
 ----------
+Make a parts list of what we need to buy for your project.
+**Due: 10/6/16**
 
 Media
 -----
