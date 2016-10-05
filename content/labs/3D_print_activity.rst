@@ -22,7 +22,7 @@ printing are shown below.
 
 Many universities, public libraries, and maker spaces have 3D printers that
 you can use for little or no cost. Penn State operates the
-`Maker Commons <(http://makercommons.psu.edu)>`_ as a part of the library
+`Maker Commons <http://makercommons.psu.edu>`_ as a part of the library
 that allows students to print. There are also commercial service bureaus that
 will make your print on professional grade machines and ship it to your door.
 Of these, `Shapeways <http://www.shapeways.com>`_ seems to have the largest
