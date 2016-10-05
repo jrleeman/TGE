@@ -11,7 +11,7 @@ provided for your reference. Remember that a catastrophic failure of a vessel
 could result in serious injury or death.
 
 Longitudinal Stress
-------------
+-------------------
 :math:`\sigma_l = \frac{p d}{4 t}`
 
 Circumferential (Hoop) Stress
