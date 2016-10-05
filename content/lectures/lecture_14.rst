@@ -15,12 +15,13 @@ not excessively over-engineered and wasteful of material.
 
 Class Plan
 ----------
+* Introduce pressure vessels
+* Show hazards and safety precautions
+* Point to useful resources
 
-Activity
---------
-
-Assignment
-----------
+Activity/Assignment
+-------------------
+Complete the :ref:`pressure_vessel_activity`. **Due 10/11/16**
 
 Media
 -----
