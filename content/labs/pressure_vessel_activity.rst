@@ -47,7 +47,7 @@ to impress our funding agency and get funding for better equipment.
 * The safety factor must be at least 4 at the maximum expected operating
   pressure of the vessel.
 
-* The vessel will be made of 6061 Aluminum stock.
+* The vessel will be made of 6061-T4 Aluminum stock.
 
 * Assume that the O-ring sealing is a solved problem for this vessel, no need
   to worry about designing the gland dimensions.
@@ -55,9 +55,17 @@ to impress our funding agency and get funding for better equipment.
 * The vessel will be capped with two flat plates that are bolted onto the end
   of the vessel.
 
-* The vessel inner diameter should be 10 cm.
+* The vessel inner diameter should be 8 cm.
 
 * The vessel inner length should be 10 cm.
+
+Resources
+---------
+* `Information about Aluminum <http://www.aerospacemetals.com/aluminum-distributor.html>`_
+* `Periodic Table <http://www.ptable.com>`_
+* `Bolt strength information <http://www.derose.net/steve/resources/engtables/bolts.html>`_
+* `Ideal Gas Law <https://en.wikipedia.org/wiki/Ideal_gas_law>`_
+* `Methane Hydrate Information <http://www1.lsbu.ac.uk/water/clathrate_hydrates.html>`_
 
 Questions/Design Tasks
 ----------------------
@@ -88,22 +96,22 @@ Questions/Design Tasks
 
 4. Given the headspace you calculated, how many moles of gas are
    required to keep the pressure at our target at 2 :math:`^\circ` C?
-   Is that enough gas? If not, what is the pressure when enough gas is in
-   the vessel?
+   How much gas do we then need in the vessel in the beginning, before the
+   reaction?
    (6 pts.)
 
    |
 
 5. When we charge the vessel with gas, we can assume that it is at room
    temperature. As the gas cools in the refrigerator, the pressure will be
-   reduced. Given the pressure of the gas you calculated above, what is the
+   reduced. Given the amount of the gas you calculated above, what is the
    maximum pressure of the vessel when at room temperature? This will be your
    target design pressure.
    (4 pts.)
 
    |
 
-6. What is the yield strength, Young's modulus, and Poisson's ratio of 6061
+6. What is the yield strength, Young's modulus, and Poisson's ratio of 6061-T4
    Aluminum?
    (3 pts.)
 
@@ -130,32 +138,26 @@ Questions/Design Tasks
 
    |
 
-10. Calculate the radial stress on the pressure vessel. Is this greater or less
+10. Calculate the maximum radial stress on the pressure vessel. Is this greater or less
     than the circumferential and axial stresses? Does it mean you need to invoke
     any design changes?
     (6 pts.)
 
     |
 
-11. Calculate the bending stress on the end platens of the vessel. What is it?
+11. Given the factor of safety we desire, what should the thickness of the end
+    platens be? What will the maximum stress on the end cap be?
     (6 pts.)
 
     |
 
-12. Given the factor of safety we desire, what should the thickness of the end
-    platens be?
+12. What is the maximum deflection of the end cap under the maximum pressure
+    conditions (i.e. the working pressure * safety factor)
     (6 pts.)
 
     |
 
-13. Make a plot of the deflection of the end plate at maximum pressure.
-    What would be maximum deflection of the end platens be? At what radius is
-    it maximized?
-    (6 pts.)
-
-    |
-
-14. Assume we are going to use 6 bolts to fix the platen to the end of the
+13. Assume we are going to use 6 bolts to fix the platen to the end of the
     pressure vessel. How much stress will each bolt need to be able to support?
     Look at the strength of different bolt sizes and grades. What size of grade 8
     hardware should be used to prevent fastener failure?
@@ -163,14 +165,14 @@ Questions/Design Tasks
 
     |
 
-15. What concerns do you have about this design? What things have we not
+14. What concerns do you have about this design? What things have we not
     considered or what assumptions that were made in the calculations may not
     be completely valid?
     (5 pts.)
 
     |
 
-16. What practical/manufacturing constraints could you apply to the design to
+15. What practical/manufacturing constraints could you apply to the design to
     make it cheaper (via reducing the cost of stock metal and/or the machining)?
     Can you do this without impacting the safety of the design?
     (5 pts.)
