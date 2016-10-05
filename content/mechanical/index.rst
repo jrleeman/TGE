@@ -25,3 +25,6 @@ Contents:
    pins
    retaining_rings
    design_3D_printing
+   thin_wall_pressure_vessel
+   thick_wall_pressure_vessel
+   bending_forces

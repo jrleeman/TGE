@@ -30,3 +30,4 @@ Contents:
    mechanical_drawing_activity
    mechanical_design_activity
    3D_print_activity
+   pressure_vessel_activity
