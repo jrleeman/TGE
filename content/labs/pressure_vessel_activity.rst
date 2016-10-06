@@ -105,8 +105,8 @@ Questions/Design Tasks
 5. When we charge the vessel with gas, we can assume that it is at room
    temperature. As the gas cools in the refrigerator, the pressure will be
    reduced. Given the amount of the gas you calculated above, what is the
-   maximum pressure of the vessel when at room temperature? This will be your
-   target design pressure.
+   maximum pressure of the vessel when at room temperature (20 :math:`^\circ` C)
+   This will be your target design pressure.
    (4 pts.)
 
    |
