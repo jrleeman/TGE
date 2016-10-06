@@ -35,6 +35,7 @@ Contents:
    content/labs/index
    content/syllabus
    content/lectures/index
+   content/resources/index
 
 Contributors:
 ^^^^^^^^^^^^^
