@@ -78,7 +78,7 @@ Questions/Design Tasks
 
    |
 
-2. Let's start by filling our vessel with 500 mL of liquid water, then sealing
+2. Let's start by filling our vessel with 100 mL of liquid water, then sealing
    it up. What is the total volume of the vessel? What is the gas headspace of
    the vessel?
    (2 pts.)
