@@ -25,4 +25,11 @@ Complete the :ref:`pressure_vessel_activity`. **Due 10/11/16**
 
 Media
 -----
-Lecture slides and video will be posted here after the lecture is given.
+:download:`Lecture 14 Slides <Lecture_14_Slides.pdf>`
+
+.. raw:: html
+
+    <div style="margin-top:10px;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/IuTywVfOFBU" frameborder="0" allowfullscreen>
+    </iframe>
+    </div>
