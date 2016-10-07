@@ -16,3 +16,4 @@ Contents:
    electronics_suppliers
    mechanical_suppliers
    youtube_channels
+   books
