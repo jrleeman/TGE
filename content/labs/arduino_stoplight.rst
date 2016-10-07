@@ -64,10 +64,23 @@ Requirements
 * Red light cycle lasts for 3 seconds.
 * Yellow light cycle lasts for 1.5 seconds.
 * Green light cycle lasts for 3 seconds.
+* Works like a normal stoplight would, only one light on at a time and in the
+  normal order (Red - Green - Yellow - Red).
 * If a car was present in the left turn lane (simulated by holding down the push
   button) **before** the green light state, add a green left turn light for 2
   seconds. If no car is present, repeat the cycle.
-* Uses the state machine implementation with functionalized code. No interrupts allowed!
+* Uses the **state machine implementation** with **functionalized code**. No interrupts allowed!
+
+Example
+-------
+The video below illustrates the proper operation of the stoplight.
+
+.. raw:: html
+
+    <div style="margin-top:10px;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ltXPpmL2szE" frameborder="0" allowfullscreen>
+    </iframe>
+    </div>
 
 Grading Rubric
 --------------
