@@ -7,18 +7,23 @@ Lecture 21 - Amplifiers : Part 2
 
 Summary
 -------
-We will continue our discussion of amplifying small signals. In this class we
-will introduce the instrumentation amplifier and go over some common problems
-encountered with using amplifiers in the laboratory.
+We will continue our discussion of amplifying small signals. We will go over the
+integrator, differentiator, and summing amplifier circuits. We will also show
+how to design a multivibrator circuit. Finally, we will introduce the
+instrumentation amplifier and go over some common problems encountered with
+using amplifiers in the laboratory.
 
 Class Plan
 ----------
+* Integrator amplifiers
+* Differentiator amplifiers
+* Summing amplifiers
+* Multivibrator design
+* Instrumentation amplifiers
 
 Activity
 --------
-
-Assignment
-----------
+Complete the included formative assessments during the lecture.
 
 Media
 -----
