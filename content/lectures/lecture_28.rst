@@ -15,12 +15,17 @@ examples of control loops.
 
 Class Plan
 ----------
+* Why do we need control systems
+* Open-loop vs. Closed-loop control
+* Logic control
+* On-Off control
+* Linear control
+* Proportional control
+* PID control
 
 Activity
 --------
-
-Assignment
-----------
+Complete the On-Off control activity. **Due: 11/29/16**
 
 Media
 -----
