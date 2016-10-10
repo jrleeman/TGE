@@ -14,13 +14,9 @@ encouraged!
 
 Class Plan
 ----------
-
-Activity
---------
-
-Assignment
-----------
+* Student presentations
+* Complete course review
 
 Media
 -----
-Lecture slides and video will be posted here after the lecture is given.
+Video will be posted here after the lecture is given.
