@@ -14,12 +14,16 @@ about each.
 
 Class Plan
 ----------
+* Low pass filter
+* High pass filter
+* Bandpass filter
+* Passive filters
+* Active filters
+* FIR filters
 
 Activity
 --------
-
-Assignment
-----------
+Complete the filter modeling activity using LTSpice. **Due: 11/24/16**
 
 Media
 -----
