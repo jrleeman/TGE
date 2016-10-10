@@ -14,12 +14,15 @@ operating principles, and hazards/maintenance.
 
 Class Plan
 ----------
+* Why use hydraulics and pneumatic systems?
+* Mechanical advantage
+* Parts of a pneumatic system
+* Parts of a hydraulic system
+* Design considerations
 
 Activity
 --------
-
-Assignment
-----------
+Complete the calculating hydraulic force activity. **Due at the end of class**
 
 Media
 -----
