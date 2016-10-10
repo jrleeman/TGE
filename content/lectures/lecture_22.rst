@@ -14,12 +14,12 @@ circuit.
 
 Class Plan
 ----------
-
-Activity
---------
+* Using parts provided by the instructors, construct an amplifier for your
+  strain gauge object.
 
 Assignment
 ----------
+Complete the amplifier activity. **Due: 11/8/16**
 
 Media
 -----

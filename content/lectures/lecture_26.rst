@@ -16,12 +16,19 @@ representation.
 
 Class Plan
 ----------
+* What is ADC and DAC?
+* Charging a capacitor as an ADC
+* Resistor divider/comparator example of ADC
+* Flash ADC
+* Successive approximation ADC
+* Multi-slope ADC
+* Sigma-Delta ADC
+* PWM DAC
+* R2R DAC
 
 Activity
 --------
-
-Assignment
-----------
+Complete the Arduino ADC activity. **Due: 11/22/16**
 
 Media
 -----

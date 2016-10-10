@@ -13,12 +13,11 @@ components and introduces basic circuit analysis.
 
 Class Plan
 ----------
-
-Activity
---------
+Complete the basic electrical components activity during class time.
 
 Assignment
 ----------
+Basic electrical components activity. **Due: 10/18/16**
 
 Media
 -----

@@ -14,12 +14,22 @@ amplifier and show how to use it as a buffer, amplifier, and comparator.
 
 Class Plan
 ----------
+* Discuss the need for amplifiers in the laboratory
+* Introduce the ideal amplifier
+* Introduce the concepts of gain and open-loop gain
+* Show a voltage follower (buffer) circuit
+* Comparator
+* Inverting amplifier
+* Non-inverting amplifier
+* Differential amplifier
 
 Activity
 --------
+Complete the included formative assessments during the lecture.
 
 Assignment
 ----------
+Complete the designing a differential amplifier activity. **Due: 11/1/16**
 
 Media
 -----
