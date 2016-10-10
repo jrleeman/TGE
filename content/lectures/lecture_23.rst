@@ -14,12 +14,21 @@ discuss how to keep your signals clean as well as how input impedance works.
 
 Class Plan
 ----------
+* What is signal integrity?
+* Crosstalk
+* RFI
+* Ringing
+* Filtering
+* Shielding
+* Layout considerations
+* Input impedance
+* Impedance matching
 
 Activity
 --------
-
-Assignment
-----------
+* Show the effects of impedance mis-match with an oscilloscope, function
+  generator, and termination resistor. Ask students to explain what we are
+  seeing on the display.
 
 Media
 -----
