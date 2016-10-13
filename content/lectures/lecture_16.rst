@@ -21,4 +21,6 @@ Basic electrical components activity. **Due: 10/18/16**
 
 Media
 -----
-Lecture slides and video will be posted here after the lecture is given.
+:download:`Lecture 16 Slides <Lecture_16_Slides.pdf>`
+
+No video for lab activity day.

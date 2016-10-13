@@ -38,4 +38,9 @@ in completing the lab for Thursday. **Due: 10/13/16**
 
 Media
 -----
-Lecture slides and video will be posted here after the lecture is given.
+:download:`Lecture 15 Slides <Lecture_15_Slides.pdf>`
+
+.. raw:: html
+
+    <div style="margin-top:10px;">
+    </div>
