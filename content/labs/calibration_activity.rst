@@ -69,9 +69,17 @@ Tasks
    at "0 mm" displacement and produce a plot of the displacement time series.
    (6 pts.)
 
+   |
+
+   :download:`DCDT data file <DCDT_data.txt>`
+
+   |
+
 8. What calibration biases could be introduced in our setup? (2 pts.)
 
    |
 
 9. What other factors could influence the output of the transducer that we are
    not considering in this calibration? (2 pts.)
+
+   |
