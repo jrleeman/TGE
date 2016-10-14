@@ -15,7 +15,7 @@ calculation to perform for end platens on internal pressure vessels.
 
 Plate Rigidity
 --------------
-:math:`D = \frac{E t^3}{12(1-\nu)}`
+:math:`D = \frac{E t^3}{12(1-\nu^2)}`
 
 Displacement
 ------------

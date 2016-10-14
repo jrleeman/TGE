@@ -73,7 +73,8 @@ Questions/Design Tasks
 1. Knowing that the laboratory refrigerator is 2 :math:`^\circ` C, what is the expected
    pressure of the phase boundary from gas + liquid water to gas hydrate? To
    be sure we are completely into the stable field and give our refrigerator
-   a little room for error, add 50% to that. What is this design pressure?
+   a little room for error, add 50% to that. What is this pressure?
+
    (4 pts.)
 
    |
@@ -85,8 +86,8 @@ Questions/Design Tasks
 
    |
 
-3. Stoichiometrically, hydrate is 4CH :math:`_4 \cdot` 23H :math:`_2` O. We want to
-   make sure we can completely convert all of the water to hydrate, so we
+3. Stoichiometrically, hydrate is 4CH :math:`_4 \cdot` 23H :math:`_2` O. We want
+   to make sure we can completely convert all of the water to hydrate, so we
    make sure that we have 6x as many water molecules as we have gas molecules.
    How many moles of water are in the vessel? How many moles of gas are
    required to complete the reaction?
@@ -97,7 +98,7 @@ Questions/Design Tasks
 4. Given the headspace you calculated, how many moles of gas are
    required to keep the pressure at our target at 2 :math:`^\circ` C?
    How much gas do we then need in the vessel in the beginning, before the
-   reaction?
+   reaction consumes any?
    (6 pts.)
 
    |
@@ -126,7 +127,7 @@ Questions/Design Tasks
    |
 
 8. Plot the circumferential stress as a function of radius through the wall
-   material. Where is this stress maximized.
+   material. Where is this stress maximized?
    (6 pts.)
 
    |
@@ -138,15 +139,15 @@ Questions/Design Tasks
 
    |
 
-10. Calculate the maximum radial stress on the pressure vessel. Is this greater or less
-    than the circumferential and axial stresses? Does it mean you need to invoke
-    any design changes?
+10. Calculate the maximum radial stress on the pressure vessel. Is this greater
+    or less than the circumferential and axial stresses? Does it mean you need
+    to invoke any design changes?
     (6 pts.)
 
     |
 
 11. Given the factor of safety we desire, what should the thickness of the end
-    platens be? What will the maximum stress on the end cap be?
+    platens be? What will the maximum stress on the end cap be at this thickness?
     (6 pts.)
 
     |
