@@ -1,7 +1,7 @@
 .. _component_basics_activity:
 
-Component Basics Activity
-=========================
+Component Basics
+================
 
 In this activity you will gain experience with basic electric circuit analysis
 and working with sensors. Part of the activity will be done in teams of two and
