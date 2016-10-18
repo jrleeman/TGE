@@ -21,6 +21,10 @@ Class Plan
 * Discuss strain gauges for force/strain measurement
 * Discuss pressure transducers
 
+Activity
+--------
+Complete the :ref:`thermistor_calculation`. **Due 10/20/16**
+
 Assignment
 ----------
 Find an object that you will instrument for the strain gauge activity. This
