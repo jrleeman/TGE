@@ -30,4 +30,4 @@ surface is necessary. **Due: 10/25/16**
 
 Media
 -----
-Lecture slides and video will be posted here after the lecture is given.
+:download:`Lecture 17 Slides <Lecture_17_Slides.pdf>`
