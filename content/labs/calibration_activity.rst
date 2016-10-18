@@ -22,12 +22,12 @@ Tasks
    during the calibration. Take a photo of your setup and include it in the lab
    report. (4 pts.)
 
-|
+   |
 
- 2. Measure the output of the power supply. In this case, the power supply
-    should be set to +/- 15 V. What are the actual output values? (2 pts.)
+2. Measure the output of the power supply. In this case, the power supply
+   should be set to +/- 15 V. What are the actual output values? (2 pts.)
 
-    |
+   |
 
 3. What are the maximum and minimum voltages you would expect to be able to
    measure as outputs from this transducer? (2 pts.)
