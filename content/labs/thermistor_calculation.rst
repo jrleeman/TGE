@@ -29,9 +29,15 @@ Questions
    |
    |
 
-2. Calculate the resistance of the thermistor for the time series data. Is the
+2. Calculate the resistance of the thermistor for the time series data.
+   The circuit was setup as shown below. Vref and Vthermistor are provided
+   for each sampling time in the datafile. Is the
    mean above or below the :math:`R_{25}` value? What does that tell you about
    the expected temperatures values? (4 pts.)
+
+   .. figure:: ./images/thermistor_circuit.png
+      :align: center
+      :scale: 40 %
 
    |
    |
