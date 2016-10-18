@@ -1,7 +1,7 @@
 .. _calibration_activity:
 
-Calibration
-===========
+Calibration Activity
+====================
 
 In order to trust the measurements from our sensors and to get physical
 quantities in meaningful units (rarely are volts meaningful), we need good
