@@ -33,3 +33,4 @@ Contents:
    pressure_vessel_activity
    arduino_voltmeter
    thermistor_calculation
+   calibration_activity

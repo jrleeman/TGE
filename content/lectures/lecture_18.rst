@@ -19,12 +19,12 @@ Class Plan
 
 Activity
 --------
-Go to the laboratory and complete the transducer calibration activity in which
-students will calibrate a real transducer.
+Complete the :ref:`calibration_activity`. **Due 10/25/16**
 
 Assignment
 ----------
-Complete the transducer calibration activity. **Due: 10/27/16**
+Finish the calibration activity if not completed in class and don't forget to
+bring your object to strain gage next class!
 
 Media
 -----
