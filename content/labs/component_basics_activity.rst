@@ -32,8 +32,8 @@ Tasks
    of voltage at Vout for Vin = 1.67 V. Briefly describe your methods.
 
 .. figure:: ./images/question3_circuit.png
-   :align: right
-   :scale: 80%
+   :align: center
+   :scale: 40%
 
 |
 
@@ -45,9 +45,9 @@ Tasks
    at each junction and comment on the comparison between your predictions and
    the measured values.
 
-.. figure:: ./images/question3_circuit.png
-   :align: right
-   :scale: 80%
+.. figure:: ./images/question4_circuit.png
+   :align: center
+   :scale: 40%
 
 |
 
