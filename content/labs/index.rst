@@ -32,5 +32,6 @@ Contents:
    3D_print_activity
    pressure_vessel_activity
    arduino_voltmeter
+   component_basics_activity
    thermistor_calculation
    calibration_activity
