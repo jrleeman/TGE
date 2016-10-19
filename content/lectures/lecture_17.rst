@@ -35,3 +35,10 @@ surface is necessary. **Due: 10/25/16**
 Media
 -----
 :download:`Lecture 17 Slides <Lecture_17_Slides.pdf>`
+
+.. raw:: html
+
+    <div style="margin-top:10px;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/z18paF0pYg0" frameborder="0" allowfullscreen>
+    </iframe>
+    </div>

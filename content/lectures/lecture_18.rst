@@ -28,4 +28,10 @@ bring your object to strain gage next class!
 
 Media
 -----
-Lecture slides and video will be posted here after the lecture is given.
+:download:`Lecture 18 Slides <Lecture_18_Slides.pdf>`
+
+.. raw:: html
+
+    <div style="margin-top:10px;">
+
+    </div>
