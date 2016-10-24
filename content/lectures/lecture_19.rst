@@ -18,9 +18,9 @@ in the lab.
 
 Assignment
 ----------
-Complete the strain gauge activity. Show us your strain gauged object working
+Complete the :ref:`strain_gage_activity`. Show us your strain gauged object working
 when hooked up to a multimeter. **Due: 10/27/16**
 
 Media
 -----
-Lecture slides and video will be posted here after the lecture is given.
+Lab day - no lecture slides or video.
