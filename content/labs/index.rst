@@ -36,3 +36,4 @@ Contents:
    thermistor_calculation
    calibration_activity
    strain_gage_activity
+   amplifier_activity
