@@ -1,9 +1,9 @@
-.. _lecture_27:
+.. _lecture_25:
 
-Lecture 27 - Filtering
+Lecture 25 - Filtering
 ======================
 
-**Date:** 11/22/16
+**Date:** 11/15/16
 
 Summary
 -------
@@ -20,10 +20,6 @@ Class Plan
 * Passive filters
 * Active filters
 * FIR filters
-
-Activity
---------
-Complete the filter modeling activity using LTSpice. **Due: 11/24/16**
 
 Media
 -----

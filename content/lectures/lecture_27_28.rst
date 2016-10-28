@@ -1,9 +1,9 @@
-.. _lecture_24_25:
+.. _lecture_27_28:
 
-Lectures 24/25 - Projects
+Lectures 27/28 - Projects
 =========================
 
-**Date:** 11/10/16, 11/15/16
+**Date:** 11/22/16, 11/24/16
 
 Summary
 -------
