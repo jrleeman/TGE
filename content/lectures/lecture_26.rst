@@ -1,34 +1,31 @@
 .. _lecture_26:
 
-Lecture 26 - ADC/DAC
-====================
+Lecture 26 - Control Systems/Loops
+==================================
 
 **Date:** 11/17/16
 
 Summary
 -------
-We have already talked about the digital representation of voltage and even used
-an analog-to-digital converter to measure voltages with the Arduino. In this
-class we’re going to dive into how analog-to-digital converters work and the
-advantages of different converter architectures. We will also introduce
-digital-to-analog conversion – generating a voltage from a digital
-representation.
+We often need our apparatus to maintain some set of conditions. It could be
+controlling the temperature, pressure, humidity, of speed of some process.
+Taking a noisy real world signal and controlling an apparatus is a complex
+process. We will introduce the elements of PID control and show practical
+examples of control loops.
 
 Class Plan
 ----------
-* What is ADC and DAC?
-* Charging a capacitor as an ADC
-* Resistor divider/comparator example of ADC
-* Flash ADC
-* Successive approximation ADC
-* Multi-slope ADC
-* Sigma-Delta ADC
-* PWM DAC
-* R2R DAC
+* Why do we need control systems
+* Open-loop vs. Closed-loop control
+* Logic control
+* On-Off control
+* Linear control
+* Proportional control
+* PID control
 
 Activity
 --------
-Complete the Arduino ADC activity. **Due: 11/22/16**
+Complete the On-Off control activity. **Due: 11/29/16**
 
 Media
 -----

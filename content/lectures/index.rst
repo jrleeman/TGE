@@ -36,10 +36,10 @@ Contents:
    lecture_21
    lecture_22
    lecture_23
-   lecture_24_25
+   lecture_24
+   lecture_25
    lecture_26
-   lecture_27
-   lecture_28
+   lecture_27_28
    lecture_29
    lecture_30
    lecture_31_32
