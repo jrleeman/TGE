@@ -33,4 +33,11 @@ Complete the designing a differential amplifier activity. **Due: 11/1/16**
 
 Media
 -----
-Lecture slides and video will be posted here after the lecture is given.
+:download:`Lecture 20 Slides <Lecture_20_Slides.pdf>`
+
+.. raw:: html
+
+    <div style="margin-top:10px;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Hj7-Hm2nW1Y" frameborder="0" allowfullscreen>
+    </iframe>
+    </div>

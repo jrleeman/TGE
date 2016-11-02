@@ -27,4 +27,10 @@ Complete the included formative assessments during the lecture.
 
 Media
 -----
-Lecture slides and video will be posted here after the lecture is given.
+:download:`Lecture 21 Slides <Lecture_21_Slides.pdf>`
+
+.. raw:: html
+
+    <div style="margin-top:10px;">
+
+    </div>
