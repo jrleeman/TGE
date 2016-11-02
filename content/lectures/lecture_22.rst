@@ -23,4 +23,4 @@ Complete the amplifier activity. **Due: 11/8/16**
 
 Media
 -----
-Lecture slides and video will be posted here after the lecture is given.
+Lab day - no lecture slides or video.
