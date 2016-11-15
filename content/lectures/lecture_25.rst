@@ -17,10 +17,17 @@ Class Plan
 * Low pass filter
 * High pass filter
 * Bandpass filter
+* Bandstop filter
 * Passive filters
 * Active filters
-* FIR filters
+* FIR/IIR filters
 
 Media
 -----
-Lecture slides and video will be posted here after the lecture is given.
+:download:`Lecture 25 Notes<Lecture_25_Notes.pdf>`
+
+.. raw:: html
+
+    <div style="margin-top:10px;">
+
+    </div>
