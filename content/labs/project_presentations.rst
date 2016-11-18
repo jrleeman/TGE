@@ -1,4 +1,4 @@
-.. _project_prsentations:
+.. _project_presentations:
 
 Project Presentations
 =====================
