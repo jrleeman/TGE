@@ -3,7 +3,7 @@
 Project Presentations
 =====================
 
-The course project is a large part of the not only the grade in this course,
+The course project is a large part of not only the grade in this course,
 but a way that you'll really internalize and learn the information we've
 covered. When your project is completed you will be required to present
 it to the class and to write a summary of what you did, why, and what you've
