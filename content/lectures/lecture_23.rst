@@ -30,12 +30,13 @@ Activity
   generator, and termination resistor. Ask students to explain what we are
   seeing on the display.
 
-  Media
-  -----
+Media
+-----
   :download:`Lecture 23 Slides <Lecture_23_Slides.pdf>`
 
   .. raw:: html
 
       <div style="margin-top:10px;">
-
-      </div>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/DPlDmN5ErZg" frameborder="0" allowfullscreen>
+      </iframe>
+      </div>”
