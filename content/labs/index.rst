@@ -36,4 +36,5 @@ Contents:
    thermistor_calculation
    calibration_activity
    strain_gage_activity
+   PID_activity
    project_presentations
