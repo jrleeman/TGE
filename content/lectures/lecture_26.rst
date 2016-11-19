@@ -29,4 +29,11 @@ Complete the On-Off control activity. **Due: 11/29/16**
 
 Media
 -----
-Lecture slides and video will be posted here after the lecture is given.
+:download:`Lecture 26 Notes<Lecture_26_Notes.pdf>`
+
+.. raw:: html
+
+    <div style="margin-top:10px;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/1Q1bquapMTs" frameborder="0" allowfullscreen>
+    </iframe>
+    </div>

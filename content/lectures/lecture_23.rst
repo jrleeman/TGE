@@ -32,4 +32,11 @@ Activity
 
 Media
 -----
-Lecture slides and video will be posted here after the lecture is given.
+  :download:`Lecture 23 Slides <Lecture_23_Slides.pdf>`
+
+  .. raw:: html
+
+      <div style="margin-top:10px;">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/DPlDmN5ErZg" frameborder="0" allowfullscreen>
+      </iframe>
+      </div>”

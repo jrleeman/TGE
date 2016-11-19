@@ -28,4 +28,4 @@ Class Plan
 
 Media
 -----
-Lecture slides and video will be posted here after the lecture is given.
+Class did not meet on this day.
