@@ -158,9 +158,6 @@ Tasks
 
     }
 
-    |
-    |
-
 4. What are the initial values of the :math:`K_p, K_i, K_d` gains? (3 pts.)
 
 |

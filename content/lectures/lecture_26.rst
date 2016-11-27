@@ -23,10 +23,6 @@ Class Plan
 * Proportional control
 * PID control
 
-Activity
---------
-Complete the On-Off control activity. **Due: 11/29/16**
-
 Media
 -----
 :download:`Lecture 26 Notes<Lecture_26_Notes.pdf>`

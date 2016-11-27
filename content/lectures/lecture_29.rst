@@ -18,7 +18,7 @@ Class Plan
 
 Activity
 --------
-Complete the PID controller activity. **Due: 12/1/16**
+Complete the :ref:`PID_activity` activity. **Due: 12/1/16**
 
 Media
 -----
