@@ -36,6 +36,7 @@ Contents:
    content/syllabus
    content/lectures/index
    content/resources/index
+   content/student_projects/index
 
 Contributors:
 ^^^^^^^^^^^^^
