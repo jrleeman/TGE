@@ -11,3 +11,4 @@ Contents:
    :maxdepth: 1
 
    leeman_john_2016/index
+   shreedharan_srisharan_2016/index

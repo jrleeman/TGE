@@ -1,8 +1,9 @@
-**3D LASER PROFILOMETER**
+.. _shreedharan_srisharan_2016:
+
+3D Laser Profilometer - Srisharan Shreedharan
+=============================================
 
 |image0|
-
-Srisharan Shreedharan
 
 **The problem:**
 
@@ -160,24 +161,24 @@ http://www.instructables.com/id/3D-Environment-Laser-Scanner-From-Scratch/
 
 http://www.instructables.com/id/DIY-Arduino-3D-Laser-Scanner/
 
-.. |image0| image:: ./image1.jpg
+.. |image0| image:: images/image1.jpg
    :width: 4.02381in
    :height: 3.01786in
-.. |image1| image:: ./image2.jpg
+.. |image1| image:: images/image2.jpg
    :width: 1.90080in
    :height: 3.37920in
-.. |image2| image:: ./image3.jpg
+.. |image2| image:: images/image3.jpg
    :width: 3.45349in
    :height: 2.40372in
-.. |image3| image:: ./image4.jpg
+.. |image3| image:: images/image4.jpg
    :width: 2.19549in
    :height: 3.90310in
-.. |image4| image:: ./image5.jpg
+.. |image4| image:: images/image5.jpg
    :width: 2.94186in
    :height: 1.99491in
-.. |image5| image:: ./image6.jpg
+.. |image5| image:: images/image6.jpg
    :width: 2.39535in
    :height: 2.95689in
-.. |image6| image:: ./image7.jpg
+.. |image6| image:: images/image7.jpg
    :width: 2.67442in
    :height: 2.90820in
