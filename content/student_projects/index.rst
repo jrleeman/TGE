@@ -12,3 +12,4 @@ Contents:
 
    leeman_john_2016/index
    shreedharan_srisharan_2016/index
+   Bolton_Chas_2016/index
