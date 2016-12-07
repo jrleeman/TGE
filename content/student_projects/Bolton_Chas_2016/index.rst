@@ -1,7 +1,7 @@
 .. _Bolton_Chas_2016:
 
 Automatic DCDT Calibration Device - Chas Bolton
-=============================================
+===============================================
 
 |image0|\ **Project goals**
 
