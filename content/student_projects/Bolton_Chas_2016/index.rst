@@ -1,9 +1,9 @@
-.. _Bolton_Chas_2016:
+.. _bolton_chas_2016:
 
 Automatic DCDT Calibration Device - Chas Bolton
 ===============================================
 
-|image0|\ **Project goals**
+**Project goals**
 
 My semester project was aimed at improving our calibration techniques
 for the DCDTs. Currently, the technique for calibrating the DCDTs is
@@ -161,9 +161,6 @@ Also, I would consider reducing the size of the top and bottom portions
 of the frame and perhaps reducing the height of the side panels. As of
 right now, the frame is burdensome to move around and to work with.
 
-.. |image0| image:: images/image1.jpg
-   :width: 3.82986in
-   :height: 2.86806in
 .. |image1| image:: images/image2.jpg
    :width: 2.67153in
    :height: 2.30972in
@@ -173,3 +170,16 @@ right now, the frame is burdensome to move around and to work with.
 .. |image3| image:: images/image4.jpg
    :width: 3.36875in
    :height: 2.52639in
+
+Media
+-----
+:download:`Slides (PDF) <bolton_presentation.pdf>`
+
+:download:`Slides (PPTX) <bolton_presentation.pptx>`
+
+.. raw:: html
+
+   <div style="margin-top:10px;">
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/ktXHafAmuzc" frameborder="0" allowfullscreen>
+   </iframe>
+   </div>
