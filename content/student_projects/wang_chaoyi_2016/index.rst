@@ -256,8 +256,6 @@ Media
 -----
 :download:`Slides (PDF) <wang_presentation.pdf>`
 
-:download:`Slides (PPTX) <wang_presentation.pptx>`
-
 :download:`Code (ZIP) <wang_code.zip>`
 
 .. raw:: html
