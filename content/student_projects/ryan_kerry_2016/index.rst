@@ -164,6 +164,158 @@ Media
  <iframe width="560" height="315" src="https://www.youtube.com/embed/ovFl6-Qer14" frameborder="0" allowfullscreen></iframe>
  </div>
 
+ Code - Project
+ --------------
+
+ .. code-block:: c
+
+     // Shot Spinner by Kerry Ryan
+     // Segments of code modified from Sparkfund Easy Driver Hook-up Guide
+
+      //Declare pin functions on Redboard
+     #define stp 2
+     #define dir 3
+     #define MS1 4
+     #define MS2 5
+     #define EN  6
+
+     //Declare variables for functions
+     char user_input;
+     int x;
+     int y;
+     int state;
+     int randNumdir;
+     int randNumturns;
+     const int button=12;
+
+     // Identify Different States
+       const int ButtonTrigger=0;
+       const int RandomNum=1;
+       const int ShotSpinForward=2;
+       const int ShotSpinBackward=3;
+
+     void setup() {
+       pinMode(stp, OUTPUT);
+       pinMode(dir, OUTPUT);
+       pinMode(MS1, OUTPUT);
+       pinMode(MS2, OUTPUT);
+       pinMode(EN, OUTPUT);
+       pinMode(button,INPUT);
+       resetEDPins(); //Set step, direction, microstep and enable pins to default states
+       Serial.begin(9600); //Open Serial connection for debugging
+       Serial.println("Press button to begin!");
+       Serial.println();
+       randomSeed(analogRead(0));
+       digitalWrite(EN, LOW); //Pull enable pin low to allow motor control
+     }
+
+     void loop() {
+       // Start of in Random number generator case
+        static int state = ButtonTrigger;
+
+         switch(state) {
+
+           case ButtonTrigger:
+           //Wait for Button Trigger Case
+           if (digitalRead(button)==HIGH){
+             state=RandomNum;
+           }
+           else{
+             state=ButtonTrigger;
+           }
+             break;
+
+           case RandomNum:
+           //Random Number Generation
+           randNumdir=random(0,100);
+           randNumturns=random(1,2000);
+           delay(100);
+
+           if (randNumdir>50){
+             state=ShotSpinForward;
+           }
+           else{
+             state=ShotSpinBackward;
+           }
+
+           break;
+
+           case ShotSpinForward:
+           // Platform will rotate forward randNumturns steps
+           Serial.println("Shots! Shots! Shots! ");
+           digitalWrite(dir, LOW); //Pull direction pin low to move "forward"
+           for(x= 1; x<randNumturns; x++)  //Loop the forward stepping enough times for motion to be visible
+           {
+             digitalWrite(stp,HIGH); //Trigger one step forward
+             delay(5);
+             digitalWrite(stp,LOW); //Pull step pin low so it can be triggered again
+             delay(5);
+           }
+           Serial.println("Refill! Then push button again!");
+           state=ButtonTrigger;
+
+             break;
+
+           case ShotSpinBackward:
+            Serial.println("Party! Party! Party!");
+            digitalWrite(dir, HIGH); //Pull direction pin high to move in "reverse"
+             for(x= 1; x<randNumturns; x++){  //Loop the stepping enough times for motion to be visible
+               digitalWrite(stp,HIGH); //Trigger one step
+               delay(5);
+               digitalWrite(stp,LOW); //Pull step pin low so it can be triggered again
+               delay(5);
+               }
+               Serial.println("Refill! Then push button again!");
+               state=ButtonTrigger;
+
+
+           default:
+             // Shutdown Case
+             while(state>3){
+               resetEDPins();
+             }
+
+         }
+      }
+     //Reset Easy Driver pins to default states
+     void resetEDPins()
+     {
+       digitalWrite(stp, LOW);
+       digitalWrite(dir, LOW);
+       digitalWrite(MS1, LOW);
+       digitalWrite(MS2, LOW);
+       digitalWrite(EN, HIGH);
+     }
+
+ Code - Hall Sensor
+ ------------------
+
+ .. code-block:: c
+
+     const int magstate=7;
+    int sensorVal;
+    const int light=9;
+
+    void setup() {
+      // put your setup code here, to run once:
+    pinMode(magstate, INPUT);
+    Serial.begin(9600);
+    }
+
+    void loop() {
+      // put your main code here, to run repeatedly:
+    sensorVal=digitalRead(magstate);
+    Serial.println(sensorVal);
+    delay(500);
+      if(sensorVal==1){
+       digitalWrite(light, HIGH);
+       }
+    else{
+      digitalWrite(light, LOW);
+    }
+
+    }
+
 .. |image0| image:: images/image1.png
 .. |image1| image:: images/image2.png
 .. |image2| image:: images/image3.png

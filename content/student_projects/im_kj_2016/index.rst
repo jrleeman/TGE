@@ -23,7 +23,7 @@ tiny to be measured and large dimension of rock mass and apparatus are required.
 To observe multi-dimensional slip behavior on distributed frictional property, a
 shear box with a soft shearing body is proposed for class project. First and
 most important requirement is to find such low stiffness but highly elastic
-material that represents an ��earth�� in earthquake. Initial candidates were (i)
+material that represents an earth in earthquake. Initial candidates were (i)
 sponge, (ii) styroform and (iii) rubber. Several sponges were tested first and
 an appropriate candidate that is generate localized slip and stiff enough was
 selected.
@@ -65,7 +65,7 @@ For deformation measurement, Sparkfun flex sensor was initially considered. The
 sensor indeed can measure the displacement of sponge but resolution was poor.
 The sensor is changed to DCDT. Connecting the DCDT to separate 30V power supply
 connected to Arduino analog input (10bit, 1023 step) can yield displacement
-resolution as small as 5��m which can be good enough to this prototype shear
+resolution as small as 5um which can be good enough to this prototype shear
 box. DCDT is connected to a pin that is firmly held at the bottom of the sponge.
 
 .. figure:: image/pic2.PNG

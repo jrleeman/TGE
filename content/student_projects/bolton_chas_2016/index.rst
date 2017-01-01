@@ -75,7 +75,9 @@ bracket in On-Shape, I hand sketched all the components of the bracket
 along with their exact dimensions. Once this was completed I created the
 bracket in On-Shape and 3D printed the assembly.
 
-|image2| The next object I built was the frame. To do this, I used a
+|image2|
+
+The next object I built was the frame. To do this, I used a
 jigsaw to cut the correct dimensions of
 
 the plywood and then assembled a simple frame consisting of two base
@@ -90,20 +92,21 @@ that the aluminum rods can be held securely in place.
 
 The next task was to power my stepper motor and driver. I first mounted
 my driver with a set of headers to the breadboard of the Arduino and
-powered it up through an external power supply. |image3|\ However, after
-doing this the voltages coming out the driver was inconsistent so I
-decided to solder the headers onto the driver. After soldering the
-headers on to the driver, the voltage readings come out of the driver
-were much more consistent. Once the driver seemed to be working
-properly, I modified an Arduino code such that I could move my motor in
-precise increments of 1mm and stop for 5 seconds and then move another 1
-mm. After a total of 30 mm, the motor would then switch directions and
-move under the same conditions. To calculate the number of steps the
-motor must undergo for 1 mm of displacement, I used the following
-formula. Total number of steps per revolution/ total number of teeth on
-pulley times the pitch. Thus, for my assembly this equates to (400\*
-8)/2. The factor of 8 is due to the 1/8 micro stepping feature of the
-driver.
+powered it up through an external power supply.
+
+|image3|
+
+However, after doing this the voltages coming out the driver was inconsistent so
+I decided to solder the headers onto the driver. After soldering the headers on
+to the driver, the voltage readings come out of the driver were much more
+consistent. Once the driver seemed to be working properly, I modified an Arduino
+code such that I could move my motor in precise increments of 1mm and stop for 5
+seconds and then move another 1 mm. After a total of 30 mm, the motor would then
+switch directions and move under the same conditions. To calculate the number of
+steps the motor must undergo for 1 mm of displacement, I used the following
+formula. Total number of steps per revolution/ total number of teeth on pulley
+times the pitch. Thus, for my assembly this equates to (400\* 8)/2. The factor
+of 8 is due to the 1/8 micro stepping feature of the driver.
 
 Once the motor was running properly and frame was built, I began working
 on connecting everything together to see if the project was actually
