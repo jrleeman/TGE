@@ -3,8 +3,6 @@
 3D Laser Profilometer - Srisharan Shreedharan
 =============================================
 
-|image0|
-
 **The problem:**
 
 Pre- and post-shear analysis of rock samples in any rock mechanics lab
@@ -161,9 +159,6 @@ http://www.instructables.com/id/3D-Environment-Laser-Scanner-From-Scratch/
 
 http://www.instructables.com/id/DIY-Arduino-3D-Laser-Scanner/
 
-.. |image0| image:: images/image1.jpg
-   :width: 4.02381in
-   :height: 3.01786in
 .. |image1| image:: images/image2.jpg
    :width: 1.90080in
    :height: 3.37920in
@@ -182,3 +177,18 @@ http://www.instructables.com/id/DIY-Arduino-3D-Laser-Scanner/
 .. |image6| image:: images/image7.jpg
    :width: 2.67442in
    :height: 2.90820in
+
+Media
+-----
+:download:`Slides (PDF) <shreedharan_presentation.pdf>`
+
+:download:`Slides (PPTX) <shreedharan_presentation.pptx>`
+
+:download:`Code (ZIP) <shreedharan_code.zip>`
+
+.. raw:: html
+
+    <div style="margin-top:10px;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/e4vHenIngD8" frameborder="0" allowfullscreen>
+    </iframe>
+    </div>
