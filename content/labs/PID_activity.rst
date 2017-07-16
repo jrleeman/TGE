@@ -7,7 +7,9 @@ It can take awhile to gain some intuition about control systems, especially
 PID controllers. In this activity you will build a simple PID controller with
 your Arduino and adjust the different gain settings to see their effects. This
 lab is largely based on a lab written by Bret Comnes and A. La Rosa at Portland
-State University. Their original lab activity is available on `their website <https://www.pdx.edu/nanogroup/sites/www.pdx.edu.nanogroup/files/2013_Arduino%20PID%20Lab_0.pdf>`_ .
+State University. Their original lab activity is available on
+`their website <https://www.pdx.edu/nanogroup/sites/www.pdx.edu.nanogroup/files/2013_Arduino%20PID%20Lab_0.pdf>`_
+or `GitHub repo <https://github.com/bcomnes/315-lab-microcontroller>`_ .
 
 The control system you will build tries to maintain a constant light level on
 a photo resistor. You can think of this like your laptop screen that becomes
