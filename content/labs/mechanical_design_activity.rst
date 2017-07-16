@@ -22,11 +22,9 @@ activity have been built and are currently in regular laboratory use.
 
    DCDT brackets in use during a rock mechanics experiment.
 
-If you need reminders of how to do things in OnShape, or are looking to learn
-more useful tips and tricks, be sure to checkout their
-`learning page <https://www.onshape.com/learn-cad-online>`_ that has a lot of
-great tutorials, webcasts, and other resources. You can also watch the lecture
-video in which we go through the design in class.
+If you need reminders of how to do things in OnShape, be sure to checkout their
+website that has a lot of great tutorials, webcasts, and other resources. You
+can also watch the lecture video in which we go through the design in class.
 
 |
 |
